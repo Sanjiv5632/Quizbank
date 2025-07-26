@@ -1419,5 +1419,1405 @@
     "question": { "en": "The concept of 'mutual consent divorce' in Muslim law is known as:", "hi": "मुस्लिम कानून में 'आपसी सहमति से तलाक' की अवधारणा को इस रूप में जाना जाता है:" },
     "options": { "en": ["Talaq-ul-Sunnat", "Talaq-e-Hasan", "Khula and Mubaraat", "Talaq-e-Biddat"], "hi": ["तलाक-उल-सुन्नत", "तलाक-ए-हसन", "खुला और मुबारत", "तलाक-ए-बिद्दत"] },
     "answer": { "en": "Khula and Mubaraat", "hi": "खुला और मुबारत" }
+  },
+    {
+    "id": 204,
+    "subject": "Constitutional Law",
+    "question": { "en": "The power of the Parliament to amend the Constitution is found in which Article?", "hi": "संविधान में संशोधन करने की संसद की शक्ति किस अनुच्छेद में पाई जाती है?" },
+    "options": { "en": ["Article 32", "Article 368", "Article 13", "Article 226"], "hi": ["अनुच्छेद 32", "अनुच्छेद 368", "अनुच्छेद 13", "अनुच्छेद 226"] },
+    "answer": { "en": "Article 368", "hi": "अनुच्छेद 368" }
+  },
+  {
+    "id": 205,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is the key difference between 'theft' and 'extortion'?", "hi": "'चोरी' और 'जबरन वसूली' के बीच मुख्य अंतर क्या है?" },
+    "options": { "en": ["Presence of force", "Consent obtained by fear", "Time of taking property", "Value of the property"], "hi": ["बल की उपस्थिति", "भय से प्राप्त सहमति", "संपत्ति लेने का समय", "संपत्ति का मूल्य"] },
+    "answer": { "en": "Consent obtained by fear", "hi": "भय से प्राप्त सहमति" }
+  },
+  {
+    "id": 206,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is the main purpose of a 'Test Identification Parade' (TIP)?", "hi": "'शिनाख्त परेड' (TIP) का मुख्य उद्देश्य क्या है?" },
+    "options": { "en": ["To punish the accused", "To satisfy the witness", "To corroborate the identity of the accused", "To record a confession"], "hi": ["अभियुक्त को दंडित करना", "गवाह को संतुष्ट करना", "अभियुक्त की पहचान की पुष्टि करना", "इकबालिया बयान दर्ज करना"] },
+    "answer": { "en": "To corroborate the identity of the accused", "hi": "अभियुक्त की पहचान की पुष्टि करना" }
+  },
+  {
+    "id": 207,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is an 'interpleader suit'?", "hi": "'अंतराpleader वाद' क्या है?" },
+    "options": { "en": ["A suit by a third party", "A suit between two defendants", "A suit where the real dispute is between the defendants only", "A suit against the government"], "hi": ["किसी तीसरे पक्ष द्वारा एक वाद", "दो प्रतिवादियों के बीच एक वाद", "एक वाद जहां वास्तविक विवाद केवल प्रतिवादियों के बीच है", "सरकार के खिलाफ एक वाद"] },
+    "answer": { "en": "A suit where the real dispute is between the defendants only", "hi": "एक वाद जहां वास्तविक विवाद केवल प्रतिवादियों के बीच है" }
+  },
+  {
+    "id": 208,
+    "subject": "Evidence Act",
+    "question": { "en": "The contents of a document can be proved by:", "hi": "एक दस्तावेज़ की सामग्री को किसके द्वारा साबित किया जा सकता है:" },
+    "options": { "en": ["Primary evidence only", "Secondary evidence only", "Either by primary or secondary evidence", "Oral evidence only"], "hi": ["केवल प्राथमिक साक्ष्य", "केवल द्वितीयक साक्ष्य", "या तो प्राथमिक या द्वितीयक साक्ष्य द्वारा", "केवल मौखिक साक्ष्य"] },
+    "answer": { "en": "Either by primary or secondary evidence", "hi": "या तो प्राथमिक या द्वितीयक साक्ष्य द्वारा" }
+  },
+  {
+    "id": 209,
+    "subject": "Family Law",
+    "question": { "en": "What is 'coparcenary' property in Hindu law?", "hi": "हिंदू कानून में 'सहदायिक' संपत्ति क्या है?" },
+    "options": { "en": ["Self-acquired property", "Property inherited from mother", "Ancestral property", "Property received as a gift"], "hi": ["स्व-अर्जित संपत्ति", "माँ से विरासत में मिली संपत्ति", "पैतृक संपत्ति", "उपहार के रूप में प्राप्त संपत्ति"] },
+    "answer": { "en": "Ancestral property", "hi": "पैतृक संपत्ति" }
+  },
+  {
+    "id": 210,
+    "subject": "Law of Contract",
+    "question": { "en": "A contract made by a person of unsound mind is:", "hi": "एक विकृतचित्त व्यक्ति द्वारा की गई संविदा है:" },
+    "options": { "en": ["Valid", "Voidable", "Void", "Illegal"], "hi": ["वैध", "शून्यकरणीय", "शून्य", "अवैध"] },
+    "answer": { "en": "Void", "hi": "शून्य" }
+  },
+  {
+    "id": 211,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'malicious prosecution'?", "hi": "'दुर्भावनापूर्ण अभियोजन' क्या है?" },
+    "options": { "en": ["Prosecution without reasonable cause", "Prosecution for a civil wrong", "Prosecution by the police", "A successful prosecution"], "hi": ["उचित कारण के बिना अभियोजन", "एक नागरिक दोष के लिए अभियोजन", "पुलिस द्वारा अभियोजन", "एक सफल अभियोजन"] },
+    "answer": { "en": "Prosecution without reasonable cause", "hi": "उचित कारण के बिना अभियोजन" }
+  },
+  {
+    "id": 212,
+    "subject": "Constitutional Law",
+    "question": { "en": "Which writ is known as a 'bulwark of personal freedom'?", "hi": "किस रिट को 'व्यक्तिगत स्वतंत्रता का गढ़' कहा जाता है?" },
+    "options": { "en": ["Mandamus", "Habeas Corpus", "Certiorari", "Quo Warranto"], "hi": ["परमादेश", "बंदी प्रत्यक्षीकरण", "उत्प्रेषण", "अधिकार-पृच्छा"] },
+    "answer": { "en": "Habeas Corpus", "hi": "बंदी प्रत्यक्षीकरण" }
+  },
+  {
+    "id": 213,
+    "subject": "BNS",
+    "question": { "en": "Under the Bharatiya Nyaya Sanhita (BNS), 'mob lynching' has been made a separate offence. What is the maximum punishment prescribed for it?", "hi": "भारतीय न्याय संहिता (BNS) के तहत, 'मॉब लिंचिंग' को एक अलग अपराध बनाया गया है। इसके लिए निर्धारित अधिकतम सजा क्या है?" },
+    "options": { "en": ["7 years imprisonment", "10 years imprisonment", "Life imprisonment or death penalty", "20 years imprisonment"], "hi": ["7 साल का कारावास", "10 साल का कारावास", "आजीवन कारावास या मृत्युदंड", "20 साल का कारावास"] },
+    "answer": { "en": "Life imprisonment or death penalty", "hi": "आजीवन कारावास या मृत्युदंड" }
+  },
+  {
+    "id": 214,
+    "subject": "BNSS",
+    "question": { "en": "The Bharatiya Nagarik Suraksha Sanhita (BNSS) makes which of the following mandatory for arrests?", "hi": "भारतीय नागरिक सुरक्षा संहिता (BNSS) गिरफ्तारियों के लिए निम्नलिखित में से किसे अनिवार्य बनाती है?" },
+    "options": { "en": ["Informing a friend of the accused", "Providing a copy of the FIR immediately", "Audio-video recording of the search and seizure", "Presence of a lawyer during interrogation"], "hi": ["अभियुक्त के किसी मित्र को सूचित करना", "तुरंत FIR की एक प्रति प्रदान करना", "तलाशी और जब्ती की ऑडियो-वीडियो रिकॉर्डिंग", "पूछताछ के दौरान एक वकील की उपस्थिति"] },
+    "answer": { "en": "Audio-video recording of the search and seizure", "hi": "तलाशी और जब्ती की ऑडियो-वीडियो रिकॉर्डिंग" }
+  },
+  {
+    "id": 215,
+    "subject": "BSA",
+    "question": { "en": "The Bharatiya Sakshya Adhiniyam (BSA) gives legal sanctity to which form of evidence that was ambiguous earlier?", "hi": "भारतीय साक्ष्य अधिनियम (BSA) किस प्रकार के साक्ष्य को कानूनी पवित्रता प्रदान करता है जो पहले अस्पष्ट था?" },
+    "options": { "en": ["Hearsay evidence", "Oral evidence", "Electronic records", "Character evidence"], "hi": ["अनुश्रुत साक्ष्य", "मौखिक साक्ष्य", "इलेक्ट्रॉनिक रिकॉर्ड", "चरित्र साक्ष्य"] },
+    "answer": { "en": "Electronic records", "hi": "इलेक्ट्रॉनिक रिकॉर्ड" }
+  },
+  {
+    "id": 216,
+    "subject": "Professional Ethics",
+    "question": { "en": "An advocate's right to a 'lien' on a client's documents is:", "hi": "एक मुवक्किल के दस्तावेजों पर एक वकील का 'ग्रहणाधिकार' का अधिकार है:" },
+    "options": { "en": ["An absolute right", "Not recognized in India", "A right subject to court's permission", "A right only for senior advocates"], "hi": ["एक पूर्ण अधिकार", "भारत में मान्यता प्राप्त नहीं है", "अदालत की अनुमति के अधीन एक अधिकार", "केवल वरिष्ठ अधिवक्ताओं के लिए एक अधिकार"] },
+    "answer": { "en": "Not recognized in India", "hi": "भारत में मान्यता प्राप्त नहीं है" }
+  },
+  {
+    "id": 217,
+    "subject": "Company Law",
+    "question": { "en": "The doctrine of 'ultra vires' means:", "hi": "'अधिकार-बाह्य' (ultra vires) के सिद्धांत का अर्थ है:" },
+    "options": { "en": ["Beyond the powers", "Within the powers", "An act against the directors", "An act benefiting shareholders"], "hi": ["शक्तियों से परे", "शक्तियों के भीतर", "निदेशकों के खिलाफ एक कार्य", "शेयरधारकों को लाभ पहुंचाने वाला एक कार्य"] },
+    "answer": { "en": "Beyond the powers", "hi": "शक्तियों से परे" }
+  },
+  {
+    "id": 218,
+    "subject": "Environmental Law",
+    "question": { "en": "What is the 'Precautionary Principle' in environmental law?", "hi": "पर्यावरण कानून में 'पूर्वोपाया सिद्धांत' क्या है?" },
+    "options": { "en": ["Polluters must pay", "Lack of scientific certainty should not be used as a reason to postpone measures to prevent environmental degradation", "Sustainable development", "Public participation in environmental decisions"], "hi": ["प्रदूषकों को भुगतान करना होगा", "पर्यावरणीय क्षरण को रोकने के उपायों को स्थगित करने के कारण के रूप में वैज्ञानिक निश्चितता की कमी का उपयोग नहीं किया जाना चाहिए", "सतत विकास", "पर्यावरणीय निर्णयों में सार्वजनिक भागीदारी"] },
+    "answer": { "en": "Lack of scientific certainty should not be used as a reason to postpone measures to prevent environmental degradation", "hi": "पर्यावरणीय क्षरण को रोकने के उपायों को स्थगित करने के कारण के रूप में वैज्ञानिक निश्चितता की कमी का उपयोग नहीं किया जाना चाहिए" }
+  },
+  {
+    "id": 219,
+    "subject": "Cyber Law",
+    "question": { "en": "Which authority certifies Digital Signatures in India?", "hi": "भारत में डिजिटल हस्ताक्षर को कौन सा प्राधिकरण प्रमाणित करता है?" },
+    "options": { "en": ["Controller of Certifying Authorities (CCA)", "Cyber Appellate Tribunal", "Ministry of IT", "Reserve Bank of India"], "hi": ["प्रमाणन प्राधिकरण नियंत्रक (CCA)", "साइबर अपीलीय न्यायाधिकरण", "आईटी मंत्रालय", "भारतीय रिजर्व बैंक"] },
+    "answer": { "en": "Controller of Certifying Authorities (CCA)", "hi": "प्रमाणन प्राधिकरण नियंत्रक (CCA)" }
+  },
+  {
+    "id": 220,
+    "subject": "ADR",
+    "question": { "en": "An award given by a Lok Adalat is:", "hi": "लोक अदालत द्वारा दिया गया एक अधिनिर्णय है:" },
+    "options": { "en": ["Appealable in the High Court", "Binding on the parties and final", "Only a suggestion", "Binding only if both parties agree after the award"], "hi": ["उच्च न्यायालय में अपील करने योग्य", "पक्षों पर बाध्यकारी और अंतिम", "केवल एक सुझाव", "अधिनिर्णय के बाद दोनों पक्षों के सहमत होने पर ही बाध्यकारी"] },
+    "answer": { "en": "Binding on the parties and final", "hi": "पक्षों पर बाध्यकारी और अंतिम" }
+  },
+  {
+    "id": 221,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What is 'passing off' in trademark law?", "hi": "ट्रेडमार्क कानून में 'पासिंग ऑफ' क्या है?" },
+    "options": { "en": ["Selling counterfeit goods", "Using a similar mark that confuses the public", "Registering a well-known trademark", "Infringing a copyright"], "hi": ["नकली सामान बेचना", "एक समान चिह्न का उपयोग करना जो जनता को भ्रमित करता है", "एक प्रसिद्ध ट्रेडमार्क का पंजीकरण करना", "कॉपीराइट का उल्लंघन करना"] },
+    "answer": { "en": "Using a similar mark that confuses the public", "hi": "एक समान चिह्न का उपयोग करना जो जनता को भ्रमित करता है" }
+  },
+  {
+    "id": 222,
+    "subject": "Constitutional Law",
+    "question": { "en": "The President's Rule in a state can be imposed under which Article?", "hi": "किसी राज्य में राष्ट्रपति शासन किस अनुच्छेद के तहत लगाया जा सकता है?" },
+    "options": { "en": ["Article 352", "Article 356", "Article 360", "Article 370"], "hi": ["अनुच्छेद 352", "अनुच्छेद 356", "अनुच्छेद 360", "अनुच्छेद 370"] },
+    "answer": { "en": "Article 356", "hi": "अनुच्छेद 356" }
+  },
+  {
+    "id": 223,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "The defense of 'intoxication' is valid only if:", "hi": "'नशे' का बचाव केवल तभी मान्य होता है जब:" },
+    "options": { "en": ["It was voluntary", "It was administered against his will or knowledge", "The person is a habitual drunkard", "The crime was minor"], "hi": ["यह स्वैच्छिक था", "यह उसकी इच्छा या जानकारी के विरुद्ध दिया गया था", "व्यक्ति आदतन शराबी है", "अपराध मामूली था"] },
+    "answer": { "en": "It was administered against his will or knowledge", "hi": "यह उसकी इच्छा या जानकारी के विरुद्ध दिया गया था" }
+  },
+  {
+    "id": 224,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is a 'complaint' as defined under CrPC?", "hi": "CrPC के तहत परिभाषित 'परिवाद' क्या है?" },
+    "options": { "en": ["An allegation made to the police", "An allegation made orally or in writing to a Magistrate", "A report filed by a police officer", "A charge framed by the court"], "hi": ["पुलिस से की गई एक शिकायत", "मजिस्ट्रेट से मौखिक या लिखित रूप में किया गया एक आरोप", "एक पुलिस अधिकारी द्वारा दायर की गई एक रिपोर्ट", "अदालत द्वारा बनाया गया एक आरोप"] },
+    "answer": { "en": "An allegation made orally or in writing to a Magistrate", "hi": "मजिस्ट्रेट से मौखिक या लिखित रूप में किया गया एक आरोप" }
+  },
+  {
+    "id": 225,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is the purpose of 'attachment before judgment'?", "hi": "'निर्णय से पहले कुर्की' का उद्देश्य क्या है?" },
+    "options": { "en": ["To punish the defendant", "To secure the property for the final decree", "To sell the property immediately", "To transfer ownership to the plaintiff"], "hi": ["प्रतिवादी को दंडित करना", "अंतिम डिक्री के लिए संपत्ति को सुरक्षित करना", "संपत्ति को तुरंत बेचना", "वादी को स्वामित्व हस्तांतरित करना"] },
+    "answer": { "en": "To secure the property for the final decree", "hi": "अंतिम डिक्री के लिए संपत्ति को सुरक्षित करना" }
+  },
+  {
+    "id": 226,
+    "subject": "Evidence Act",
+    "question": { "en": "An 'accomplice' is a competent witness against an accused person, but the court may presume that he is:", "hi": "एक 'सह-अपराधी' एक अभियुक्त व्यक्ति के खिलाफ एक सक्षम गवाह है, लेकिन अदालत यह मान सकती है कि वह है:" },
+    "options": { "en": ["Always telling the truth", "Unworthy of credit, unless corroborated", "Not a witness at all", "A hostile witness"], "hi": ["हमेशा सच बोल रहा है", "विश्वसनीयता के अयोग्य, जब तक कि पुष्टि न हो", "गवाह ही नहीं है", "एक पक्षद्रोही गवाह"] },
+    "answer": { "en": "Unworthy of credit, unless corroborated", "hi": "विश्वसनीयता के अयोग्य, जब तक कि पुष्टि न हो" }
+  },
+  {
+    "id": 227,
+    "subject": "Family Law",
+    "question": { "en": "Under the Special Marriage Act, 1954, the parties intending to marry must give a notice of how many days?", "hi": "विशेष विवाह अधिनियम, 1954 के तहत, विवाह करने के इच्छुक पक्षों को कितने दिनों का नोटिस देना होता है?" },
+    "options": { "en": ["15 days", "30 days", "60 days", "90 days"], "hi": ["15 दिन", "30 दिन", "60 दिन", "90 दिन"] },
+    "answer": { "en": "30 days", "hi": "30 दिन" }
+  },
+  {
+    "id": 228,
+    "subject": "Law of Contract",
+    "question": { "en": "What is a 'wagering agreement'?", "hi": "'बाजी करार' क्या है?" },
+    "options": { "en": ["An agreement based on an uncertain future event", "A contract of insurance", "A valid contract", "A contract of guarantee"], "hi": ["एक अनिश्चित भविष्य की घटना पर आधारित एक करार", "एक बीमा की संविदा", "एक वैध संविदा", "एक गारंटी की संविदा"] },
+    "answer": { "en": "An agreement based on an uncertain future event", "hi": "एक अनिश्चित भविष्य की घटना पर आधारित एक करार" }
+  },
+  {
+    "id": 229,
+    "subject": "Law of Tort",
+    "question": { "en": "The defense of 'inevitable accident' means:", "hi": "'अपरिहार्य दुर्घटना' के बचाव का अर्थ है:" },
+    "options": { "en": ["An accident caused by negligence", "An accident that could not have been avoided by reasonable care", "An act of God", "An accident caused by a third party"], "hi": ["लापरवाही के कारण हुई एक दुर्घटना", "एक दुर्घटना जिसे उचित देखभाल से नहीं टाला जा सकता था", "दैवीय कृत्य", "किसी तीसरे पक्ष के कारण हुई एक दुर्घटना"] },
+    "answer": { "en": "An accident that could not have been avoided by reasonable care", "hi": "एक दुर्घटना जिसे उचित देखभाल से नहीं टाला जा सकता था" }
+  },
+  {
+    "id": 230,
+    "subject": "Milestone Rulings",
+    "question": { "en": "The Supreme Court decriminalized adultery in which landmark case?", "hi": "सर्वोच्च न्यायालय ने किस ऐतिहासिक मामले में व्यभिचार को अपराध की श्रेणी से बाहर कर दिया?" },
+    "options": { "en": ["Navtej Singh Johar v. Union of India", "Joseph Shine v. Union of India", "Shayara Bano v. Union of India", "K.S. Puttaswamy v. Union of India"], "hi": ["नवतेज सिंह जौहर बनाम भारत संघ", "जोसेफ शाइन बनाम भारत संघ", "शायरा बानो बनाम भारत संघ", "के.एस. पुट्टस्वामी बनाम भारत संघ"] },
+    "answer": { "en": "Joseph Shine v. Union of India", "hi": "जोसेफ शाइन बनाम भारत संघ" }
+  },
+  {
+    "id": 231,
+    "subject": "PIL",
+    "question": { "en": "What is 'locus standi' in the context of a PIL?", "hi": "एक जनहित याचिका के संदर्भ में 'लोकस स्टैंडी' क्या है?" },
+    "options": { "en": ["The right to file a case", "The financial capacity to file a case", "The legal knowledge of the petitioner", "The subject matter of the case"], "hi": ["मामला दायर करने का अधिकार", "मामला दायर करने की वित्तीय क्षमता", "याचिकाकर्ता का कानूनी ज्ञान", "मामले की विषय वस्तु"] },
+    "answer": { "en": "The right to file a case", "hi": "मामला दायर करने का अधिकार" }
+  },
+  {
+    "id": 232,
+    "subject": "Administrative Law",
+    "question": { "en": "The principle 'Nemo judex in causa sua' means:", "hi": "सिद्धांत 'नेमो जुडेक्स इन कॉसा सुआ' का अर्थ है:" },
+    "options": { "en": ["Hear the other side", "No one can be a judge in his own cause", "Reasoned decision", "Rule against bias"], "hi": ["दूसरे पक्ष को सुनो", "कोई भी अपने मामले में न्यायाधीश नहीं हो सकता", "तर्कपूर्ण निर्णय", "पूर्वाग्रह के खिलाफ नियम"] },
+    "answer": { "en": "No one can be a judge in his own cause", "hi": "कोई भी अपने मामले में न्यायाधीश नहीं हो सकता" }
+  },
+  {
+    "id": 233,
+    "subject": "Labour & Industrial Laws",
+    "question": { "en": "The Maternity Benefit Act applies to establishments employing how many persons?", "hi": "मातृत्व लाभ अधिनियम कितने व्यक्तियों को रोजगार देने वाले प्रतिष्ठानों पर लागू होता है?" },
+    "options": { "en": ["5 or more", "10 or more", "20 or more", "50 or more"], "hi": ["5 या अधिक", "10 या अधिक", "20 या अधिक", "50 या अधिक"] },
+    "answer": { "en": "10 or more", "hi": "10 या अधिक" }
+  },
+  {
+    "id": 234,
+    "subject": "Taxation Law",
+    "question": { "en": "Which body is responsible for making recommendations on GST rates?", "hi": "जीएसटी दरों पर सिफारिशें करने के लिए कौन सा निकाय जिम्मेदार है?" },
+    "options": { "en": ["Finance Ministry", "GST Council", "Central Board of Indirect Taxes and Customs", "NITI Aayog"], "hi": ["वित्त मंत्रालय", "जीएसटी परिषद", "केंद्रीय अप्रत्यक्ष कर और सीमा शुल्क बोर्ड", "नीति आयोग"] },
+    "answer": { "en": "GST Council", "hi": "जीएसटी परिषद" }
+  },
+  {
+    "id": 235,
+    "subject": "Land Acquisition Act",
+    "question": { "en": "What is the purpose of a 'Social Impact Assessment' under the 2013 Act?", "hi": "2013 के अधिनियम के तहत 'सामाजिक प्रभाव आकलन' का उद्देश्य क्या है?" },
+    "options": { "en": ["To determine the market value of land", "To assess the impact of the project on the community and environment", "To identify the owners of the land", "To expedite the acquisition process"], "hi": ["भूमि का बाजार मूल्य निर्धारित करना", "समुदाय और पर्यावरण पर परियोजना के प्रभाव का आकलन करना", "भूमि के मालिकों की पहचान करना", "अधिग्रहण प्रक्रिया में तेजी लाना"] },
+    "answer": { "en": "To assess the impact of the project on the community and environment", "hi": "समुदाय और पर्यावरण पर परियोजना के प्रभाव का आकलन करना" }
+  },
+  {
+    "id": 236,
+    "subject": "Constitutional Law",
+    "question": { "en": "Who is the ex-officio Chairman of the Rajya Sabha?", "hi": "राज्य सभा का पदेन सभापति कौन होता है?" },
+    "options": { "en": ["President", "Vice-President", "Prime Minister", "Speaker of Lok Sabha"], "hi": ["राष्ट्रपति", "उपराष्ट्रपति", "प्रधानमंत्री", "लोकसभा अध्यक्ष"] },
+    "answer": { "en": "Vice-President", "hi": "उपराष्ट्रपति" }
+  },
+  {
+    "id": 237,
+    "subject": "BNS",
+    "question": { "en": "The BNS has introduced a new provision for 'snatching'. This was earlier prosecuted under which section of IPC?", "hi": "BNS ने 'छीना-झपटी' के लिए एक नया प्रावधान पेश किया है। इस पर पहले IPC की किस धारा के तहत मुकदमा चलाया जाता था?" },
+    "options": { "en": ["Theft (378)", "Robbery (390)", "Extortion (383)", "Theft or Robbery depending on facts"], "hi": ["चोरी (378)", "लूट (390)", "जबरन वसूली (383)", "तथ्यों के आधार पर चोरी या लूट"] },
+    "answer": { "en": "Theft or Robbery depending on facts", "hi": "तथ्यों के आधार पर चोरी या लूट" }
+  },
+  {
+    "id": 238,
+    "subject": "BNSS",
+    "question": { "en": "Under BNSS, what is the new time limit for a court to pronounce judgment after the conclusion of arguments?", "hi": "BNSS के तहत, दलीलें समाप्त होने के बाद अदालत के लिए फैसला सुनाने की नई समय सीमा क्या है?" },
+    "options": { "en": ["15 days", "30 days", "45 days", "60 days"], "hi": ["15 दिन", "30 दिन", "45 दिन", "60 दिन"] },
+    "answer": { "en": "30 days", "hi": "30 दिन" }
+  },
+  {
+    "id": 239,
+    "subject": "BSA",
+    "question": { "en": "The BSA clarifies the law on the admissibility of evidence from a person who is:", "hi": "BSA उस व्यक्ति से साक्ष्य की स्वीकार्यता पर कानून को स्पष्ट करता है जो:" },
+    "options": { "en": ["A child below 7 years", "An accomplice", "Unable to speak (dumb witness)", "A foreign national"], "hi": ["7 साल से कम उम्र का बच्चा", "एक सह-अपराधी", "बोलने में असमर्थ (गूंगा गवाह)", "एक विदेशी नागरिक"] },
+    "answer": { "en": "Unable to speak (dumb witness)", "hi": "बोलने में असमर्थ (गूंगा गवाह)" }
+  },
+  {
+    "id": 240,
+    "subject": "Evidence Act",
+    "question": { "en": "What is a 'hostile witness'?", "hi": "'पक्षद्रोही गवाह' क्या है?" },
+    "options": { "en": ["A witness who is against the accused", "A witness who gives false evidence", "A witness who does not support the party that called him", "A witness who is related to the victim"], "hi": ["एक गवाह जो अभियुक्त के खिलाफ है", "एक गवाह जो झूठा साक्ष्य देता है", "एक गवाह जो उसे बुलाने वाले पक्ष का समर्थन नहीं करता है", "एक गवाह जो पीड़ित से संबंधित है"] },
+    "answer": { "en": "A witness who does not support the party that called him", "hi": "एक गवाह जो उसे बुलाने वाले पक्ष का समर्थन नहीं करता है" }
+  },
+  {
+    "id": 241,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "A 'second appeal' to the High Court lies only on a:", "hi": "उच्च न्यायालय में 'दूसरी अपील' केवल किस पर हो सकती है:" },
+    "options": { "en": ["Question of fact", "Question of law", "Substantial question of law", "Mixed question of fact and law"], "hi": ["तथ्य का प्रश्न", "कानून का प्रश्न", "कानून का महत्वपूर्ण प्रश्न", "तथ्य और कानून का मिश्रित प्रश्न"] },
+    "answer": { "en": "Substantial question of law", "hi": "कानून का महत्वपूर्ण प्रश्न" }
+  },
+  {
+    "id": 242,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "The power to grant 'pardon' to an accomplice is vested in:", "hi": "एक सह-अपराधी को 'क्षमादान' देने की शक्ति किसमें निहित है:" },
+    "options": { "en": ["The Police", "The High Court", "The Chief Judicial Magistrate", "The victim"], "hi": ["पुलिस", "उच्च न्यायालय", "मुख्य न्यायिक मजिस्ट्रेट", "पीड़ित"] },
+    "answer": { "en": "The Chief Judicial Magistrate", "hi": "मुख्य न्यायिक मजिस्ट्रेट" }
+  },
+  {
+    "id": 243,
+    "subject": "Family Law",
+    "question": { "en": "The concept of 'Talaq-e-Biddat' (Triple Talaq) was declared unconstitutional by the Supreme Court because it violated:", "hi": "सर्वोच्च न्यायालय द्वारा 'तलाक-ए-बिद्दत' (तीन तलाक) की अवधारणा को असंवैधानिक घोषित किया गया क्योंकि यह उल्लंघन करता था:" },
+    "options": { "en": ["Article 14", "Article 19", "Article 21", "All of the above"], "hi": ["अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 21", "उपरोक्त सभी"] },
+    "answer": { "en": "Article 14", "hi": "अनुच्छेद 14" }
+  },
+  {
+    "id": 244,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'novation' of a contract?", "hi": "एक संविदा का 'नवीयन' क्या है?" },
+    "options": { "en": ["Cancelling the contract", "Altering the terms of the contract", "Substituting a new contract for the old one", "Breaching the contract"], "hi": ["संविदा को रद्द करना", "संविदा की शर्तों में परिवर्तन करना", "पुरानी संविदा के लिए एक नई संविदा को प्रतिस्थापित करना", "संविदा का उल्लंघन करना"] },
+    "answer": { "en": "Substituting a new contract for the old one", "hi": "पुरानी संविदा के लिए एक नई संविदा को प्रतिस्थापित करना" }
+  },
+  {
+    "id": 245,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'slander'?", "hi": "'अपवचन' क्या है?" },
+    "options": { "en": ["Defamation in a permanent form", "Defamation in a transient (spoken) form", "A written false statement", "A breach of duty"], "hi": ["एक स्थायी रूप में मानहानि", "एक क्षणिक (बोले गए) रूप में मानहानि", "एक लिखित झूठा बयान", "कर्तव्य का उल्लंघन"] },
+    "answer": { "en": "Defamation in a transient (spoken) form", "hi": "एक क्षणिक (बोले गए) रूप में मानहानि" }
+  },
+  {
+    "id": 246,
+    "subject": "Company Law",
+    "question": { "en": "What is a 'prospectus'?", "hi": "'प्रोस्पेक्टस' क्या है?" },
+    "options": { "en": ["A company's annual report", "An invitation to the public to subscribe to shares or debentures", "The minutes of a board meeting", "A certificate of incorporation"], "hi": ["एक कंपनी की वार्षिक रिपोर्ट", "शेयरों या डिबेंचर की सदस्यता के लिए जनता को एक निमंत्रण", "एक बोर्ड बैठक के कार्यवृत्त", "निगमन का एक प्रमाण पत्र"] },
+    "answer": { "en": "An invitation to the public to subscribe to shares or debentures", "hi": "शेयरों या डिबेंचर की सदस्यता के लिए जनता को एक निमंत्रण" }
+  },
+  {
+    "id": 247,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "The 'Berne Convention' deals with the protection of:", "hi": "'बर्न कन्वेंशन' किसकी सुरक्षा से संबंधित है?" },
+    "options": { "en": ["Patents", "Trademarks", "Literary and Artistic Works (Copyright)", "Industrial Designs"], "hi": ["पेटेंट", "ट्रेडमार्क", "साहित्यिक और कलात्मक कार्य (कॉपीराइट)", "औद्योगिक डिजाइन"] },
+    "answer": { "en": "Literary and Artistic Works (Copyright)", "hi": "साहित्यिक और कलात्मक कार्य (कॉपीराइट)" }
+  },
+  {
+    "id": 248,
+    "subject": "Constitutional Law",
+    "question": { "en": "The idea of 'Fundamental Duties' was inspired by the Constitution of which country?", "hi": "'मौलिक कर्तव्यों' का विचार किस देश के संविधान से प्रेरित था?" },
+    "options": { "en": ["USA", "UK", "Former USSR (Russia)", "Germany"], "hi": ["संयुक्त राज्य अमेरिका", "यूके", "पूर्व यूएसएसआर (रूस)", "जर्मनी"] },
+    "answer": { "en": "Former USSR (Russia)", "hi": "पूर्व यूएसएसआर (रूस)" }
+  },
+  {
+    "id": 249,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "The principle of 'doli incapax' means:", "hi": "'डोली इनकैपैक्स' के सिद्धांत का अर्थ है:" },
+    "options": { "en": ["Incapable of crime", "Incapable of giving consent", "Incapable of understanding", "Incapable of forming intent"], "hi": ["अपराध करने में अक्षम", "सहमति देने में अक्षम", "समझने में अक्षम", "इरादा बनाने में अक्षम"] },
+    "answer": { "en": "Incapable of crime", "hi": "अपराध करने में अक्षम" }
+  },
+  {
+    "id": 250,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "An appeal against acquittal can be filed by:", "hi": "दोषमुक्ति के खिलाफ अपील किसके द्वारा दायर की जा सकती है:" },
+    "options": { "en": ["The accused only", "The victim only", "The State Government or the victim", "The police only"], "hi": ["केवल अभियुक्त", "केवल पीड़ित", "राज्य सरकार या पीड़ित", "केवल पुलिस"] },
+    "answer": { "en": "The State Government or the victim", "hi": "राज्य सरकार या पीड़ित" }
+  },
+  {
+    "id": 251,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is a 'pauper suit' or 'indigent person's suit'?", "hi": "'अकिंचन वाद' या 'निर्धन व्यक्ति का वाद' क्या है?" },
+    "options": { "en": ["A suit for a small amount", "A suit filed without paying the required court fees", "A suit filed in a lower court", "A suit against a poor person"], "hi": ["एक छोटी राशि के लिए एक वाद", "आवश्यक अदालत शुल्क का भुगतान किए बिना दायर किया गया एक वाद", "एक निचली अदालत में दायर किया गया एक वाद", "एक गरीब व्यक्ति के खिलाफ एक वाद"] },
+    "answer": { "en": "A suit filed without paying the required court fees", "hi": "आवश्यक अदालत शुल्क का भुगतान किए बिना दायर किया गया एक वाद" }
+  },
+  {
+    "id": 252,
+    "subject": "Evidence Act",
+    "question": { "en": "A confession made to a police officer is inadmissible under which section?", "hi": "एक पुलिस अधिकारी से की गई संस्वीकृति किस धारा के तहत अस्वीकार्य है?" },
+    "options": { "en": ["Section 24", "Section 25", "Section 26", "Section 27"], "hi": ["धारा 24", "धारा 25", "धारा 26", "धारा 27"] },
+    "answer": { "en": "Section 25", "hi": "धारा 25" }
+  },
+  {
+    "id": 253,
+    "subject": "Family Law",
+    "question": { "en": "What is the primary source of Muslim law?", "hi": "मुस्लिम कानून का प्राथमिक स्रोत क्या है?" },
+    "options": { "en": ["The Quran", "The Sunnah (Hadith)", "Ijma (Consensus)", "Qiyas (Analogy)"], "hi": ["कुरान", "सुन्नत (हदीस)", "इज्मा (आम सहमति)", "कियास (सादृश्य)"] },
+    "answer": { "en": "The Quran", "hi": "कुरान" }
+  },
+  {
+    "id": 254,
+    "subject": "Law of Contract",
+    "question": { "en": "An agreement in restraint of trade is:", "hi": "व्यापार के अवरोध में एक करार है:" },
+    "options": { "en": ["Valid", "Voidable", "Void", "Illegal"], "hi": ["वैध", "शून्यकरणीय", "शून्य", "अवैध"] },
+    "answer": { "en": "Void", "hi": "शून्य" }
+  },
+  {
+    "id": 255,
+    "subject": "Law of Tort",
+    "question": { "en": "The 'pigeon-hole' theory of tort was advocated by:", "hi": "अपकृत्य के 'पिजन-होल' सिद्धांत की वकालत किसने की थी:" },
+    "options": { "en": ["Winfield", "Salmond", "Pollock", "Blackstone"], "hi": ["विनफील्ड", "सामंड", "पोलक", "ब्लैकस्टोन"] },
+    "answer": { "en": "Salmond", "hi": "सामंड" }
+  },
+  {
+    "id": 256,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Money Bill' can only be introduced in:", "hi": "'धन विधेयक' केवल कहाँ पेश किया जा सकता है:" },
+    "options": { "en": ["Rajya Sabha", "Lok Sabha", "Either House of Parliament", "A joint sitting of Parliament"], "hi": ["राज्य सभा", "लोक सभा", "संसद के किसी भी सदन में", "संसद की एक संयुक्त बैठक में"] },
+    "answer": { "en": "Lok Sabha", "hi": "लोक सभा" }
+  },
+  {
+    "id": 257,
+    "subject": "BNS",
+    "question": { "en": "Under BNS, what is the new provision regarding a doctor's negligence causing death?", "hi": "BNS के तहत, मृत्यु का कारण बनने वाली डॉक्टर की लापरवाही के संबंध में नया प्रावधान क्या है?" },
+    "options": { "en": ["Punishment is increased to life imprisonment", "A lesser punishment is prescribed compared to other rash acts", "It is no longer a criminal offense", "The hospital management is held liable"], "hi": ["सजा को आजीवन कारावास तक बढ़ा दिया गया है", "अन्य लापरवाहीपूर्ण कृत्यों की तुलना में कम सजा निर्धारित की गई है", "यह अब एक आपराधिक अपराध नहीं है", "अस्पताल प्रबंधन को उत्तरदायी ठहराया जाता है"] },
+    "answer": { "en": "A lesser punishment is prescribed compared to other rash acts", "hi": "अन्य लापरवाहीपूर्ण कृत्यों की तुलना में कम सजा निर्धारित की गई है" }
+  },
+  {
+    "id": 258,
+    "subject": "BNSS",
+    "question": { "en": "The BNSS allows for trials to be conducted in the absence of a proclaimed offender. This is known as:", "hi": "BNSS एक घोषित अपराधी की अनुपस्थिति में मुकदमे चलाने की अनुमति देता है। इसे किस रूप में जाना जाता है:" },
+    "options": { "en": ["Ex-parte trial", "Summary trial", "Trial in absentia", "Deemed trial"], "hi": ["एक-पक्षीय विचारण", "संक्षिप्त विचारण", "अनुपस्थिति में विचारण", "मानित विचारण"] },
+    "answer": { "en": "Trial in absentia", "hi": "अनुपस्थिति में विचारण" }
+  },
+  {
+    "id": 259,
+    "subject": "BSA",
+    "question": { "en": "The concept of 'presumption as to electronic agreements' is a new feature in:", "hi": "'इलेक्ट्रॉनिक करारों के बारे में उपधारणा' की अवधारणा किसमें एक नई विशेषता है:" },
+    "options": { "en": ["Indian Penal Code", "Bharatiya Sakshya Adhiniyam", "Code of Civil Procedure", "Information Technology Act"], "hi": ["भारतीय दंड संहिता", "भारतीय साक्ष्य अधिनियम", "नागरिक प्रक्रिया संहिता", "सूचना प्रौद्योगिकी अधिनियम"] },
+    "answer": { "en": "Bharatiya Sakshya Adhiniyam", "hi": "भारतीय साक्ष्य अधिनियम" }
+  },
+  {
+    "id": 260,
+    "subject": "Professional Ethics",
+    "question": { "en": "The Bar Council of India is a:", "hi": "भारतीय विधिज्ञ परिषद एक है:" },
+    "options": { "en": ["Government body", "Judicial body", "Statutory body", "Private organization"], "hi": ["सरकारी निकाय", "न्यायिक निकाय", "सांविधिक निकाय", "निजी संगठन"] },
+    "answer": { "en": "Statutory body", "hi": "सांविधिक निकाय" }
+  },
+  {
+    "id": 261,
+    "subject": "Company Law",
+    "question": { "en": "What is a 'quorum' for a company meeting?", "hi": "एक कंपनी की बैठक के लिए 'गणपूर्ति' (कोरम) क्या है?" },
+    "options": { "en": ["The total number of members", "The minimum number of members required to be present", "The number of directors", "The number of votes required to pass a resolution"], "hi": ["सदस्यों की कुल संख्या", "उपस्थित होने के लिए आवश्यक सदस्यों की न्यूनतम संख्या", "निदेशकों की संख्या", "एक प्रस्ताव पारित करने के लिए आवश्यक मतों की संख्या"] },
+    "answer": { "en": "The minimum number of members required to be present", "hi": "उपस्थित होने के लिए आवश्यक सदस्यों की न्यूनतम संख्या" }
+  },
+  {
+    "id": 262,
+    "subject": "Environmental Law",
+    "question": { "en": "The 'Chipko Movement' is associated with:", "hi": "'चिपको आंदोलन' किससे संबंधित है:" },
+    "options": { "en": ["Water pollution control", "Forest conservation", "Air pollution control", "Wildlife protection"], "hi": ["जल प्रदूषण नियंत्रण", "वन संरक्षण", "वायु प्रदूषण नियंत्रण", "वन्यजीव संरक्षण"] },
+    "answer": { "en": "Forest conservation", "hi": "वन संरक्षण" }
+  },
+  {
+    "id": 263,
+    "subject": "Cyber Law",
+    "question": { "en": "What is 'data protection'?", "hi": "'डेटा संरक्षण' क्या है?" },
+    "options": { "en": ["Protecting computers from viruses", "The legal control over access to and use of personal data", "Encrypting all files", "Using a strong password"], "hi": ["कंप्यूटर को वायरस से बचाना", "व्यक्तिगत डेटा तक पहुंच और उसके उपयोग पर कानूनी नियंत्रण", "सभी फाइलों को एन्क्रिप्ट करना", "एक मजबूत पासवर्ड का उपयोग करना"] },
+    "answer": { "en": "The legal control over access to and use of personal data", "hi": "व्यक्तिगत डेटा तक पहुंच और उसके उपयोग पर कानूनी नियंत्रण" }
+  },
+  {
+    "id": 264,
+    "subject": "ADR",
+    "question": { "en": "Which of the following is NOT a form of ADR?", "hi": "निम्नलिखित में से कौन सा ADR का एक रूप नहीं है?" },
+    "options": { "en": ["Mediation", "Arbitration", "Litigation", "Conciliation"], "hi": ["मध्यस्थता", "माध्यस्थम्", "मुकदमेबाजी", "सुलह"] },
+    "answer": { "en": "Litigation", "hi": "मुकदमेबाजी" }
+  },
+  {
+    "id": 265,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What is the term of copyright protection for an author?", "hi": "एक लेखक के लिए कॉपीराइट संरक्षण की अवधि क्या है?" },
+    "options": { "en": ["20 years", "50 years", "60 years after the author's death", "Perpetual"], "hi": ["20 साल", "50 साल", "लेखक की मृत्यु के 60 साल बाद तक", "स्थायी"] },
+    "answer": { "en": "60 years after the author's death", "hi": "लेखक की मृत्यु के 60 साल बाद तक" }
+  },
+  {
+    "id": 266,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Doctrine of Severability' means:", "hi": "'पृथक्करणीयता के सिद्धांत' का अर्थ है:" },
+    "options": { "en": ["The entire law is void if one part is unconstitutional", "Only the unconstitutional part of a law is struck down", "The Parliament can separate its powers", "The judiciary can separate its powers"], "hi": ["यदि एक हिस्सा असंवैधानिक है तो पूरा कानून शून्य है", "कानून के केवल असंवैधानिक हिस्से को रद्द कर दिया जाता है", "संसद अपनी शक्तियों को अलग कर सकती है", "न्यायपालिका अपनी शक्तियों को अलग कर सकती है"] },
+    "answer": { "en": "Only the unconstitutional part of a law is struck down", "hi": "कानून के केवल असंवैधानिक हिस्से को रद्द कर दिया जाता है" }
+  },
+  {
+    "id": 267,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is the essential ingredient of 'criminal misappropriation of property'?", "hi": "'संपत्ति के आपराधिक दुर्विनियोग' का आवश्यक तत्व क्या है?" },
+    "options": { "en": ["Taking property out of possession", "Dishonest conversion of property for one's own use", "Using force", "Deceiving the owner"], "hi": ["कब्जे से संपत्ति लेना", "अपने स्वयं के उपयोग के लिए संपत्ति का बेईमानी से रूपांतरण", "बल का प्रयोग", "मालिक को धोखा देना"] },
+    "answer": { "en": "Dishonest conversion of property for one's own use", "hi": "अपने स्वयं के उपयोग के लिए संपत्ति का बेईमानी से रूपांतरण" }
+  },
+  {
+    "id": 268,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "A 'First Information Report' (FIR) can be lodged for which type of offense?", "hi": "'प्रथम सूचना रिपोर्ट' (FIR) किस प्रकार के अपराध के लिए दर्ज की जा सकती है?" },
+    "options": { "en": ["Cognizable offense only", "Non-cognizable offense only", "Both cognizable and non-cognizable offenses", "Summary offenses only"], "hi": ["केवल संज्ञेय अपराध", "केवल असंज्ञेय अपराध", "संज्ञेय और असंज्ञेय दोनों अपराध", "केवल संक्षिप्त अपराध"] },
+    "answer": { "en": "Cognizable offense only", "hi": "केवल संज्ञेय अपराध" }
+  },
+  {
+    "id": 269,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "The power of 'review' can be exercised by:", "hi": "'पुनर्विलोकन' की शक्ति का प्रयोग किसके द्वारा किया जा सकता है:" },
+    "options": { "en": ["The appellate court", "The High Court only", "The same court that passed the decree", "The Supreme Court only"], "hi": ["अपीलीय अदालत", "केवल उच्च न्यायालय", "उसी अदालत द्वारा जिसने डिक्री पारित की", "केवल सर्वोच्च न्यायालय"] },
+    "answer": { "en": "The same court that passed the decree", "hi": "उसी अदालत द्वारा जिसने डिक्री पारित की" }
+  },
+  {
+    "id": 270,
+    "subject": "Evidence Act",
+    "question": { "en": "What is a 'presumption of fact'?", "hi": "'तथ्य की उपधारणा' क्या है?" },
+    "options": { "en": ["A conclusive proof", "An inference drawn by the court based on common course of events", "A rule of law", "An admission by a party"], "hi": ["एक निश्चायक सबूत", "घटनाओं के सामान्य क्रम के आधार पर अदालत द्वारा निकाला गया एक निष्कर्ष", "कानून का एक नियम", "एक पक्ष द्वारा एक स्वीकृति"] },
+    "answer": { "en": "An inference drawn by the court based on common course of events", "hi": "घटनाओं के सामान्य क्रम के आधार पर अदालत द्वारा निकाला गया एक निष्कर्ष" }
+  },
+  {
+    "id": 271,
+    "subject": "Family Law",
+    "question": { "en": "What is 'restitution of conjugal rights'?", "hi": "'दाम्पत्य अधिकारों का प्रत्यास्थापन' क्या है?" },
+    "options": { "en": ["A ground for divorce", "A remedy to bring back a spouse who has withdrawn from the society of the other", "A form of maintenance", "A condition for marriage"], "hi": ["तलाक का एक आधार", "उस जीवनसाथी को वापस लाने का एक उपाय जो दूसरे के साथ से हट गया है", "भरण-पोषण का एक रूप", "विवाह के लिए एक शर्त"] },
+    "answer": { "en": "A remedy to bring back a spouse who has withdrawn from the society of the other", "hi": "उस जीवनसाथी को वापस लाने का एक उपाय जो दूसरे के साथ से हट गया है" }
+  },
+  {
+    "id": 272,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'anticipatory breach' of contract?", "hi": "संविदा का 'प्रत्याशित भंग' क्या है?" },
+    "options": { "en": ["Breach on the due date of performance", "Breach after the due date", "Refusal to perform before the due date", "A minor breach"], "hi": ["प्रदर्शन की नियत तारीख पर भंग", "नियत तारीख के बाद भंग", "नियत तारीख से पहले प्रदर्शन करने से इनकार", "एक मामूली भंग"] },
+    "answer": { "en": "Refusal to perform before the due date", "hi": "नियत तारीख से पहले प्रदर्शन करने से इनकार" }
+  },
+  {
+    "id": 273,
+    "subject": "Law of Tort",
+    "question": { "en": "For the tort of 'assault', what is essential?", "hi": "'हमला' के अपकृत्य के लिए क्या आवश्यक है?" },
+    "options": { "en": ["Physical contact", "Causing actual harm", "Creating a reasonable apprehension of battery", "Using a weapon"], "hi": ["शारीरिक संपर्क", "वास्तविक नुकसान पहुंचाना", "बैटरी की एक उचित आशंका पैदा करना", "एक हथियार का उपयोग करना"] },
+    "answer": { "en": "Creating a reasonable apprehension of battery", "hi": "बैटरी की एक उचित आशंका पैदा करना" }
+  },
+  {
+    "id": 274,
+    "subject": "Milestone Rulings",
+    "question": { "en": "In which case did the Supreme Court lay down guidelines for police encounters?", "hi": "सर्वोच्च न्यायालय ने किस मामले में पुलिस मुठभेड़ों के लिए दिशानिर्देश निर्धारित किए?" },
+    "options": { "en": ["D.K. Basu v. State of West Bengal", "Prakash Singh v. Union of India", "PUCL v. State of Maharashtra", "Lalita Kumari v. Govt. of U.P."], "hi": ["डी.के. बसु बनाम पश्चिम बंगाल राज्य", "प्रकाश सिंह बनाम भारत संघ", "पीयूसीएल बनाम महाराष्ट्र राज्य", "ललिता कुमारी बनाम यू.पी. सरकार"] },
+    "answer": { "en": "PUCL v. State of Maharashtra", "hi": "पीयूसीएल बनाम महाराष्ट्र राज्य" }
+  },
+  {
+    "id": 275,
+    "subject": "Administrative Law",
+    "question": { "en": "What is 'delegated legislation'?", "hi": "'प्रत्यायोजित विधान' क्या है?" },
+    "options": { "en": ["Law made by the judiciary", "Law made by the legislature", "Law made by the executive under the authority of the legislature", "A constitutional amendment"], "hi": ["न्यायपालिका द्वारा बनाया गया कानून", "विधायिका द्वारा बनाया गया कानून", "विधायिका के अधिकार के तहत कार्यपालिका द्वारा बनाया गया कानून", "एक संवैधानिक संशोधन"] },
+    "answer": { "en": "Law made by the executive under the authority of the legislature", "hi": "विधायिका के अधिकार के तहत कार्यपालिका द्वारा बनाया गया कानून" }
+  },
+  {
+    "id": 276,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Right to Education' is a fundamental right under which Article?", "hi": "'शिक्षा का अधिकार' किस अनुच्छेद के तहत एक मौलिक अधिकार है?" },
+    "options": { "en": ["Article 19(1)(a)", "Article 21", "Article 21A", "Article 29"], "hi": ["अनुच्छेद 19(1)(a)", "अनुच्छेद 21", "अनुच्छेद 21A", "अनुच्छेद 29"] },
+    "answer": { "en": "Article 21A", "hi": "अनुच्छेद 21A" }
+  },
+  {
+    "id": 277,
+    "subject": "BNS",
+    "question": { "en": "The BNS has defined 'terrorist act' for the first time in the primary penal law. This was earlier part of which special law?", "hi": "BNS ने प्राथमिक दंड कानून में पहली बार 'आतंकवादी कृत्य' को परिभाषित किया है। यह पहले किस विशेष कानून का हिस्सा था?" },
+    "options": { "en": ["TADA", "POTA", "UAPA", "MCOCA"], "hi": ["टाडा", "पोटा", "यूएपीए", "मकोका"] },
+    "answer": { "en": "UAPA", "hi": "यूएपीए" }
+  },
+  {
+    "id": 278,
+    "subject": "BNSS",
+    "question": { "en": "Under BNSS, the statement of a victim of sexual assault should preferably be recorded by:", "hi": "BNSS के तहत, यौन उत्पीड़न की शिकार पीड़िता का बयान अधिमानतः किसके द्वारा दर्ज किया जाना चाहिए:" },
+    "options": { "en": ["Any police officer", "A male police officer", "A woman police officer", "The victim's lawyer"], "hi": ["कोई भी पुलिस अधिकारी", "एक पुरुष पुलिस अधिकारी", "एक महिला पुलिस अधिकारी", "पीड़िता का वकील"] },
+    "answer": { "en": "A woman police officer", "hi": "एक महिला पुलिस अधिकारी" }
+  },
+  {
+    "id": 279,
+    "subject": "BSA",
+    "question": { "en": "The BSA states that facts which are part of the 'same transaction' are relevant. This principle is known as:", "hi": "BSA कहता है कि जो तथ्य 'एक ही संव्यवहार' का हिस्सा हैं, वे सुसंगत हैं। यह सिद्धांत किस रूप में जाना जाता है:" },
+    "options": { "en": ["Res Judicata", "Res Gestae", "Estoppel", "Alibi"], "hi": ["रेस ज्यूडिकाटा", "रेस गेस्टे", "विबंधन", "अन्यत्र उपस्थिति"] },
+    "answer": { "en": "Res Gestae", "hi": "रेस गेस्टे" }
+  },
+  {
+    "id": 280,
+    "subject": "Evidence Act",
+    "question": { "en": "A 'privileged communication' between a lawyer and a client is protected under which section?", "hi": "एक वकील और एक मुवक्किल के बीच एक 'विशेषाधिकार प्राप्त संचार' किस धारा के तहत संरक्षित है?" },
+    "options": { "en": ["Section 122", "Section 124", "Section 126", "Section 129"], "hi": ["धारा 122", "धारा 124", "धारा 126", "धारा 129"] },
+    "answer": { "en": "Section 126", "hi": "धारा 126" }
+  },
+  {
+    "id": 281,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is the primary objective of a 'summons'?", "hi": "'समन' का प्राथमिक उद्देश्य क्या है?" },
+    "options": { "en": ["To arrest the defendant", "To inform the defendant about the suit and require his appearance", "To attach the defendant's property", "To start the trial"], "hi": ["प्रतिवादी को गिरफ्तार करना", "प्रतिवादी को वाद के बारे में सूचित करना और उसकी उपस्थिति की आवश्यकता", "प्रतिवादी की संपत्ति कुर्क करना", "विचारण शुरू करना"] },
+    "answer": { "en": "To inform the defendant about the suit and require his appearance", "hi": "प्रतिवादी को वाद के बारे में सूचित करना और उसकी उपस्थिति की आवश्यकता" }
+  },
+  {
+    "id": 282,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is 'plea bargaining'?", "hi": "'अभिवाक् सौदेबाजी' क्या है?" },
+    "options": { "en": ["Bargaining for a lesser sentence in exchange for a guilty plea", "Bargaining with the witness", "Bargaining for bail", "Bargaining with the judge"], "hi": ["दोषी की अभिवाक् के बदले में कम सजा के लिए सौदेबाजी", "गवाह के साथ सौदेबाजी", "जमानत के लिए सौदेबाजी", "न्यायाधीश के साथ सौदेबाजी"] },
+    "answer": { "en": "Bargaining for a lesser sentence in exchange for a guilty plea", "hi": "दोषी की अभिवाक् के बदले में कम सजा के लिए सौदेबाजी" }
+  },
+  {
+    "id": 283,
+    "subject": "Family Law",
+    "question": { "en": "The Hindu Adoptions and Maintenance Act, 1956 allows:", "hi": "हिंदू दत्तक और भरण-पोषण अधिनियम, 1956 अनुमति देता है:" },
+    "options": { "en": ["Only a male to adopt", "Only a female to adopt", "Both male and female to adopt", "Only married couples to adopt"], "hi": ["केवल एक पुरुष को गोद लेने की", "केवल एक महिला को गोद लेने की", "पुरुष और महिला दोनों को गोद लेने की", "केवल विवाहित जोड़ों को गोद लेने की"] },
+    "answer": { "en": "Both male and female to adopt", "hi": "पुरुष और महिला दोनों को गोद लेने की" }
+  },
+  {
+    "id": 284,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'undue influence'?", "hi": "'अनुचित प्रभाव' क्या है?" },
+    "options": { "en": ["Coercion", "Fraud", "Using a dominant position to obtain an unfair advantage", "Misrepresentation"], "hi": ["प्रपीड़न", "धोखा", "एक अनुचित लाभ प्राप्त करने के लिए एक प्रमुख स्थिति का उपयोग करना", "दुर्व्यपदेशन"] },
+    "answer": { "en": "Using a dominant position to obtain an unfair advantage", "hi": "एक अनुचित लाभ प्राप्त करने के लिए एक प्रमुख स्थिति का उपयोग करना" }
+  },
+  {
+    "id": 285,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'battery' in tort law?", "hi": "अपकृत्य कानून में 'बैटरी' क्या है?" },
+    "options": { "en": ["Threatening to cause harm", "Intentional and direct application of force to another person", "Causing mental distress", "Damaging property"], "hi": ["नुकसान पहुंचाने की धमकी देना", "किसी अन्य व्यक्ति पर बल का जानबूझकर और सीधा प्रयोग", "मानसिक संकट पैदा करना", "संपत्ति को नुकसान पहुंचाना"] },
+    "answer": { "en": "Intentional and direct application of force to another person", "hi": "किसी अन्य व्यक्ति पर बल का जानबूझकर और सीधा प्रयोग" }
+  },
+  {
+    "id": 286,
+    "subject": "Company Law",
+    "question": { "en": "A 'private company' can have a maximum of how many members?", "hi": "एक 'निजी कंपनी' में अधिकतम कितने सदस्य हो सकते हैं?" },
+    "options": { "en": ["50", "100", "200", "No limit"], "hi": ["50", "100", "200", "कोई सीमा नहीं"] },
+    "answer": { "en": "200", "hi": "200" }
+  },
+  {
+    "id": 287,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What is 'fair dealing' in copyright law?", "hi": "कॉपीराइट कानून में 'उचित व्यवहार' क्या है?" },
+    "options": { "en": ["Selling a copyrighted work", "A legal defense for using copyrighted material without permission for specific purposes", "Copying an entire book", "Creating a similar work"], "hi": ["एक कॉपीराइट की गई कृति को बेचना", "विशिष्ट उद्देश्यों के लिए अनुमति के बिना कॉपीराइट की गई सामग्री का उपयोग करने के लिए एक कानूनी बचाव", "एक पूरी किताब की नकल करना", "एक समान कृति बनाना"] },
+    "answer": { "en": "A legal defense for using copyrighted material without permission for specific purposes", "hi": "विशिष्ट उद्देश्यों के लिए अनुमति के बिना कॉपीराइट की गई सामग्री का उपयोग करने के लिए एक कानूनी बचाव" }
+  },
+  {
+    "id": 288,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Preamble' of the Indian Constitution was amended how many times?", "hi": "भारतीय संविधान की 'प्रस्तावना' में कितनी बार संशोधन किया गया है?" },
+    "options": { "en": ["Never", "Once", "Twice", "Three times"], "hi": ["कभी नहीं", "एक बार", "दो बार", "तीन बार"] },
+    "answer": { "en": "Once", "hi": "एक बार" }
+  },
+  {
+    "id": 289,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "Which of the following is an offense against property?", "hi": "निम्नलिखित में से कौन सा संपत्ति के खिलाफ एक अपराध है?" },
+    "options": { "en": ["Assault", "Kidnapping", "Robbery", "Defamation"], "hi": ["हमला", "व्यपहरण", "लूट", "मानहानि"] },
+    "answer": { "en": "Robbery", "hi": "लूट" }
+  },
+  {
+    "id": 290,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is the time limit for filing a charge sheet in a case punishable with imprisonment up to 10 years?", "hi": "10 साल तक के कारावास से दंडनीय मामले में आरोप पत्र दाखिल करने की समय सीमा क्या है?" },
+    "options": { "en": ["30 days", "60 days", "90 days", "120 days"], "hi": ["30 दिन", "60 दिन", "90 दिन", "120 दिन"] },
+    "answer": { "en": "90 days", "hi": "90 दिन" }
+  },
+  {
+    "id": 291,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "The principle of 'restitution' means:", "hi": "'प्रत्यास्थापन' के सिद्धांत का अर्थ है:" },
+    "options": { "en": ["Restoring the parties to their original position", "Paying compensation", "Appealing to a higher court", "Executing the decree"], "hi": ["पक्षों को उनकी मूल स्थिति में बहाल करना", "मुआवजा देना", "एक उच्च न्यायालय में अपील करना", "डिक्री का निष्पादन करना"] },
+    "answer": { "en": "Restoring the parties to their original position", "hi": "पक्षों को उनकी मूल स्थिति में बहाल करना" }
+  },
+  {
+    "id": 292,
+    "subject": "Evidence Act",
+    "question": { "en": "What is 'hearsay evidence'?", "hi": "'अनुश्रुत साक्ष्य' क्या है?" },
+    "options": { "en": ["Evidence given by an expert", "Evidence of a fact which the witness has not personally seen or heard", "Documentary evidence", "Primary evidence"], "hi": ["एक विशेषज्ञ द्वारा दिया गया साक्ष्य", "एक तथ्य का साक्ष्य जिसे गवाह ने व्यक्तिगत रूप से नहीं देखा या सुना है", "दस्तावेजी साक्ष्य", "प्राथमिक साक्ष्य"] },
+    "answer": { "en": "Evidence of a fact which the witness has not personally seen or heard", "hi": "एक तथ्य का साक्ष्य जिसे गवाह ने व्यक्तिगत रूप से नहीं देखा या सुना है" }
+  },
+  {
+    "id": 293,
+    "subject": "Family Law",
+    "question": { "en": "Under Hindu law, a marriage between a boy of 20 years and a girl of 17 years is:", "hi": "हिंदू कानून के तहत, 20 साल के लड़के और 17 साल की लड़की के बीच एक विवाह है:" },
+    "options": { "en": ["Valid", "Void", "Voidable", "Illegal"], "hi": ["वैध", "शून्य", "शून्यकरणीय", "अवैध"] },
+    "answer": { "en": "Voidable", "hi": "शून्यकरणीय" }
+  },
+  {
+    "id": 294,
+    "subject": "Law of Contract",
+    "question": { "en": "An agreement, the meaning of which is not certain, is:", "hi": "एक करार, जिसका अर्थ निश्चित नहीं है, है:" },
+    "options": { "en": ["Void", "Voidable", "Valid", "Enforceable"], "hi": ["शून्य", "शून्यकरणीय", "वैध", "प्रवर्तनीय"] },
+    "answer": { "en": "Void", "hi": "शून्य" }
+  },
+  {
+    "id": 295,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'trespass to land'?", "hi": "'भूमि पर अतिचार' क्या है?" },
+    "options": { "en": ["Damaging someone's land", "Unlawful entry onto the land of another", "Taking something from the land", "Making noise on the land"], "hi": ["किसी की भूमि को नुकसान पहुंचाना", "दूसरे की भूमि पर गैरकानूनी प्रवेश", "भूमि से कुछ लेना", "भूमि पर शोर करना"] },
+    "answer": { "en": "Unlawful entry onto the land of another", "hi": "दूसरे की भूमि पर गैरकानूनी प्रवेश" }
+  },
+  {
+    "id": 296,
+    "subject": "Milestone Rulings",
+    "question": { "en": "The 'Right to Die with Dignity' (passive euthanasia) was recognized in which case?", "hi": "'गरिमा के साथ मरने का अधिकार' (निष्क्रिय इच्छामृत्यु) को किस मामले में मान्यता दी गई थी?" },
+    "options": { "en": ["Gian Kaur v. State of Punjab", "Aruna Shanbaug v. Union of India", "Common Cause v. Union of India", "Both b and c"], "hi": ["ज्ञान कौर बनाम पंजाब राज्य", "अरुणा शानबाग बनाम भारत संघ", "कॉमन कॉज बनाम भारत संघ", "b और c दोनों"] },
+    "answer": { "en": "Both b and c", "hi": "b और c दोनों" }
+  },
+  {
+    "id": 297,
+    "subject": "Administrative Law",
+    "question": { "en": "What is a 'writ of mandamus'?", "hi": "'परमादेश' की रिट क्या है?" },
+    "options": { "en": ["An order to release a person", "An order to a public authority to perform its public duty", "An order to quash a decision", "An order to stop proceedings"], "hi": ["एक व्यक्ति को रिहा करने का एक आदेश", "एक सार्वजनिक प्राधिकरण को अपने सार्वजनिक कर्तव्य का पालन करने का एक आदेश", "एक निर्णय को रद्द करने का एक आदेश", "कार्यवाही रोकने का एक आदेश"] },
+    "answer": { "en": "An order to a public authority to perform its public duty", "hi": "एक सार्वजनिक प्राधिकरण को अपने सार्वजनिक कर्तव्य का पालन करने का एक आदेश" }
+  },
+  {
+    "id": 298,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 73rd Amendment to the Constitution is related to:", "hi": "संविधान का 73वां संशोधन किससे संबंधित है:" },
+    "options": { "en": ["Municipalities", "Panchayati Raj", "Fundamental Duties", "Official Languages"], "hi": ["नगर पालिकाएं", "पंचायती राज", "मौलिक कर्तव्य", "राजभाषाएं"] },
+    "answer": { "en": "Panchayati Raj", "hi": "पंचायती राज" }
+  },
+  {
+    "id": 299,
+    "subject": "BNS",
+    "question": { "en": "Under BNS, the offense of 'sedition' has been replaced with a new offense. What is it called?", "hi": "BNS के तहत, 'राजद्रोह' के अपराध को एक नए अपराध से बदल दिया गया है। इसे क्या कहा जाता है?" },
+    "options": { "en": ["Waging war against the nation", "Acts endangering sovereignty, unity and integrity of India", "Treason", "Anti-national activities"], "hi": ["राष्ट्र के खिलाफ युद्ध छेड़ना", "भारत की संप्रभुता, एकता और अखंडता को खतरे में डालने वाले कार्य", "देशद्रोह", "राष्ट्र-विरोधी गतिविधियाँ"] },
+    "answer": { "en": "Acts endangering sovereignty, unity and integrity of India", "hi": "भारत की संप्रभुता, एकता और अखंडता को खतरे में डालने वाले कार्य" }
+  },
+  {
+    "id": 300,
+    "subject": "BNSS",
+    "question": { "en": "The BNSS has introduced 'zero FIR'. What does it mean?", "hi": "BNSS ने 'शून्य FIR' की शुरुआत की है। इसका क्या मतलब है?" },
+    "options": { "en": ["An FIR with no details", "An FIR that can be filed in any police station, irrespective of jurisdiction", "An FIR filed online", "An FIR against an unknown person"], "hi": ["बिना विवरण के एक FIR", "एक FIR जो किसी भी पुलिस स्टेशन में, क्षेत्राधिकार की परवाह किए बिना दायर की जा सकती है", "ऑनलाइन दायर की गई एक FIR", "एक अज्ञात व्यक्ति के खिलाफ एक FIR"] },
+    "answer": { "en": "An FIR that can be filed in any police station, irrespective of jurisdiction", "hi": "एक FIR जो किसी भी पुलिस स्टेशन में, क्षेत्राधिकार की परवाह किए बिना दायर की जा सकती है" }
+  },
+  {
+    "id": 301,
+    "subject": "BSA",
+    "question": { "en": "Under BSA, what is the status of a confession made via video conferencing?", "hi": "BSA के तहत, वीडियो कॉन्फ्रेंसिंग के माध्यम से किए गए एक इकबालिया बयान की स्थिति क्या है?" },
+    "options": { "en": ["Inadmissible", "Admissible if recorded properly", "Admissible only for minor offenses", "Requires police verification"], "hi": ["अस्वीकार्य", "यदि ठीक से रिकॉर्ड किया गया हो तो स्वीकार्य", "केवल मामूली अपराधों के लिए स्वीकार्य", "पुलिस सत्यापन की आवश्यकता है"] },
+    "answer": { "en": "Admissible if recorded properly", "hi": "यदि ठीक से रिकॉर्ड किया गया हो तो स्वीकार्य" }
+  },
+  {
+    "id": 302,
+    "subject": "Evidence Act",
+    "question": { "en": "The 'best evidence rule' means:", "hi": "'सर्वोत्तम साक्ष्य नियम' का अर्थ है:" },
+    "options": { "en": ["The best witness should be produced", "The original document must be produced", "Expert evidence is the best evidence", "Direct evidence is better than circumstantial evidence"], "hi": ["सर्वोत्तम गवाह को पेश किया जाना चाहिए", "मूल दस्तावेज़ को प्रस्तुत किया जाना चाहिए", "विशेषज्ञ साक्ष्य सर्वोत्तम साक्ष्य है", "प्रत्यक्ष साक्ष्य परिस्थितिजन्य साक्ष्य से बेहतर है"] },
+    "answer": { "en": "The original document must be produced", "hi": "मूल दस्तावेज़ को प्रस्तुत किया जाना चाहिए" }
+  },
+  {
+    "id": 303,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is a 'written statement'?", "hi": "'लिखित कथन' क्या है?" },
+    "options": { "en": ["The plaintiff's claim", "The defendant's reply to the plaint", "An affidavit", "The court's order"], "hi": ["वादी का दावा", "वाद-पत्र पर प्रतिवादी का जवाब", "एक शपथ पत्र", "अदालत का आदेश"] },
+    "answer": { "en": "The defendant's reply to the plaint", "hi": "वाद-पत्र पर प्रतिवादी का जवाब" }
+  },
+  {
+    "id": 304,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "Who can order an investigation into a non-cognizable offense?", "hi": "एक असंज्ञेय अपराध की जांच का आदेश कौन दे सकता है?" },
+    "options": { "en": ["Police officer", "Magistrate", "Victim", "Public Prosecutor"], "hi": ["पुलिस अधिकारी", "मजिस्ट्रेट", "पीड़ित", "लोक अभियोजक"] },
+    "answer": { "en": "Magistrate", "hi": "मजिस्ट्रेट" }
+  },
+  {
+    "id": 305,
+    "subject": "Family Law",
+    "question": { "en": "The concept of 'judicial separation' allows the parties to:", "hi": "'न्यायिक पृथक्करण' की अवधारणा पक्षों को अनुमति देती है:" },
+    "options": { "en": ["Get divorced immediately", "Live separately without dissolving the marriage", "Remarry", "Adopt a child"], "hi": ["तुरंत तलाक लेने की", "विवाह को भंग किए बिना अलग रहने की", "पुनर्विवाह करने की", "एक बच्चे को गोद लेने की"] },
+    "answer": { "en": "Live separately without dissolving the marriage", "hi": "विवाह को भंग किए बिना अलग रहने की" }
+  },
+  {
+    "id": 306,
+    "subject": "Law of Contract",
+    "question": { "en": "A 'contingent contract' depends on:", "hi": "एक 'समाश्रित संविदा' किस पर निर्भर करती है:" },
+    "options": { "en": ["The will of the parties", "The happening or non-happening of a future event", "The payment of consideration", "A court order"], "hi": ["पक्षों की इच्छा", "एक भविष्य की घटना के होने या न होने पर", "प्रतिफल का भुगतान", "एक अदालत का आदेश"] },
+    "answer": { "en": "The happening or non-happening of a future event", "hi": "एक भविष्य की घटना के होने या न होने पर" }
+  },
+  {
+    "id": 307,
+    "subject": "Law of Tort",
+    "question": { "en": "The maxim 'injuria sine damno' means:", "hi": "सूत्र 'इंजुरिया साइन डैमनो' का अर्थ है:" },
+    "options": { "en": ["Injury with damage", "Damage without legal injury", "Legal injury without any actual damage", "Both injury and damage"], "hi": ["नुकसान के साथ चोट", "कानूनी चोट के बिना नुकसान", "बिना किसी वास्तविक नुकसान के कानूनी चोट", "चोट और नुकसान दोनों"] },
+    "answer": { "en": "Legal injury without any actual damage", "hi": "बिना किसी वास्तविक नुकसान के कानूनी चोट" }
+  },
+  {
+    "id": 308,
+    "subject": "Company Law",
+    "question": { "en": "What is 'winding up' of a company?", "hi": "एक कंपनी का 'समापन' क्या है?" },
+    "options": { "en": ["Starting a new company", "The process of bringing a company's life to an end", "Merging with another company", "Issuing new shares"], "hi": ["एक नई कंपनी शुरू करना", "एक कंपनी के जीवन को समाप्त करने की प्रक्रिया", "दूसरी कंपनी के साथ विलय करना", "नए शेयर जारी करना"] },
+    "answer": { "en": "The process of bringing a company's life to an end", "hi": "एक कंपनी के जीवन को समाप्त करने की प्रक्रिया" }
+  },
+  {
+    "id": 309,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "The 'Paris Convention' is for the protection of:", "hi": "'पेरिस कन्वेंशन' किसकी सुरक्षा के लिए है:" },
+    "options": { "en": ["Copyright", "Industrial Property (Patents, Trademarks, etc.)", "Geographical Indications", "Biodiversity"], "hi": ["कॉपीराइट", "औद्योगिक संपत्ति (पेटेंट, ट्रेडमार्क, आदि)", "भौगोलिक संकेत", "जैव विविधता"] },
+    "answer": { "en": "Industrial Property (Patents, Trademarks, etc.)", "hi": "औद्योगिक संपत्ति (पेटेंट, ट्रेडमार्क, आदि)" }
+  },
+  {
+    "id": 310,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Doctrine of Eclipse' applies to:", "hi": "'आच्छादन का सिद्धांत' किस पर लागू होता है:" },
+    "options": { "en": ["Post-constitutional laws", "Pre-constitutional laws", "Both a and b", "Constitutional amendments"], "hi": ["संविधान-पश्चात कानून", "संविधान-पूर्व कानून", "a और b दोनों", "संवैधानिक संशोधन"] },
+    "answer": { "en": "Pre-constitutional laws", "hi": "संविधान-पूर्व कानून" }
+  },
+  {
+    "id": 311,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is the minimum number of persons required for the offense of 'dacoity'?", "hi": "'डकैती' के अपराध के लिए न्यूनतम कितने व्यक्तियों की आवश्यकता होती है?" },
+    "options": { "en": ["2", "3", "4", "5"], "hi": ["2", "3", "4", "5"] },
+    "answer": { "en": "5", "hi": "5" }
+  },
+  {
+    "id": 312,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "A 'warrant case' relates to an offense punishable with:", "hi": "एक 'वारंट मामला' उस अपराध से संबंधित है जो दंडनीय है:" },
+    "options": { "en": ["Fine only", "Imprisonment for less than 2 years", "Death, imprisonment for life, or imprisonment for more than 2 years", "Imprisonment up to 1 year"], "hi": ["केवल जुर्माना", "2 साल से कम का कारावास", "मृत्यु, आजीवन कारावास, या 2 साल से अधिक का कारावास", "1 साल तक का कारावास"] },
+    "answer": { "en": "Death, imprisonment for life, or imprisonment for more than 2 years", "hi": "मृत्यु, आजीवन कारावास, या 2 साल से अधिक का कारावास" }
+  },
+  {
+    "id": 313,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "The power of the court to issue a 'commission' is for:", "hi": "अदालत की 'कमीशन' जारी करने की शक्ति किसके लिए है:" },
+    "options": { "en": ["Arresting a person", "Examining witnesses, making local investigations, etc.", "Attaching property", "Passing a final decree"], "hi": ["एक व्यक्ति को गिरफ्तार करना", "गवाहों की जांच करना, स्थानीय जांच करना, आदि।", "संपत्ति कुर्क करना", "एक अंतिम डिक्री पारित करना"] },
+    "answer": { "en": "Examining witnesses, making local investigations, etc.", "hi": "गवाहों की जांच करना, स्थानीय जांच करना, आदि।" }
+  },
+  {
+    "id": 314,
+    "subject": "Evidence Act",
+    "question": { "en": "The 'character' of a party is generally irrelevant in:", "hi": "एक पक्ष का 'चरित्र' आम तौर पर किसमें अप्रासंगिक होता है:" },
+    "options": { "en": ["Criminal cases", "Civil cases", "Both civil and criminal cases", "Matrimonial cases"], "hi": ["आपराधिक मामले", "दीवानी मामले", "दीवानी और आपराधिक दोनों मामले", "वैवाहिक मामले"] },
+    "answer": { "en": "Civil cases", "hi": "दीवानी मामले" }
+  },
+  {
+    "id": 315,
+    "subject": "Family Law",
+    "question": { "en": "In Muslim law, a marriage with a woman during her 'iddat' period is:", "hi": "मुस्लिम कानून में, एक महिला के 'इद्दत' की अवधि के दौरान उसके साथ एक विवाह है:" },
+    "options": { "en": ["Valid (Sahih)", "Void (Batil)", "Irregular (Fasid)", "Muta marriage"], "hi": ["वैध (सही)", "शून्य (बातिल)", "अनियमित (फासिद)", "मुता विवाह"] },
+    "answer": { "en": "Irregular (Fasid)", "hi": "अनियमित (फासिद)" }
+  },
+  {
+    "id": 316,
+    "subject": "Law of Contract",
+    "question": { "en": "A 'contract of indemnity' is a:", "hi": "एक 'क्षतिपूर्ति की संविदा' है एक:" },
+    "options": { "en": ["Contract to perform the promise of a third person", "Contract to save another from loss caused by the conduct of the promisor or any other person", "Contract of bailment", "Contract of agency"], "hi": ["किसी तीसरे व्यक्ति के वादे को पूरा करने की संविदा", "वचनदाता या किसी अन्य व्यक्ति के आचरण के कारण हुए नुकसान से दूसरे को बचाने की संविदा", "उपनिधान की संविदा", "अभिकरण की संविदा"] },
+    "answer": { "en": "Contract to save another from loss caused by the conduct of the promisor or any other person", "hi": "वचनदाता या किसी अन्य व्यक्ति के आचरण के कारण हुए नुकसान से दूसरे को बचाने की संविदा" }
+  },
+  {
+    "id": 317,
+    "subject": "Law of Tort",
+    "question": { "en": "The rule of 'volenti non fit injuria' is not applicable in:", "hi": "'वोलेन्टी नॉन फिट इंजुरिया' का नियम किसमें लागू नहीं होता है:" },
+    "options": { "en": ["Sports cases", "Rescue cases", "Surgical operations", "Boxing matches"], "hi": ["खेल के मामले", "बचाव के मामले", "सर्जिकल ऑपरेशन", "मुक्केबाजी मैच"] },
+    "answer": { "en": "Rescue cases", "hi": "बचाव के मामले" }
+  },
+  {
+    "id": 318,
+    "subject": "Milestone Rulings",
+    "question": { "en": "The case of 'Shreya Singhal v. Union of India' is famous for striking down:", "hi": "'श्रेया सिंघल बनाम भारत संघ' का मामला किसे रद्द करने के लिए प्रसिद्ध है:" },
+    "options": { "en": ["Section 377 of IPC", "Section 66A of the IT Act", "Section 497 of IPC", "Section 124A of IPC"], "hi": ["आईपीसी की धारा 377", "आईटी अधिनियम की धारा 66A", "आईपीसी की धारा 497", "आईपीसी की धारा 124A"] },
+    "answer": { "en": "Section 66A of the IT Act", "hi": "आईटी अधिनियम की धारा 66A" }
+  },
+  {
+    "id": 319,
+    "subject": "Administrative Law",
+    "question": { "en": "What is the 'doctrine of legitimate expectation'?", "hi": "'उचित अपेक्षा का सिद्धांत' क्या है?" },
+    "options": { "en": ["An expectation of a favorable decision", "An expectation that a public body will follow its past practice or promise", "An expectation of compensation", "An expectation of a speedy trial"], "hi": ["एक अनुकूल निर्णय की अपेक्षा", "एक अपेक्षा कि एक सार्वजनिक निकाय अपनी पिछली प्रथा या वादे का पालन करेगा", "मुआवजे की अपेक्षा", "एक त्वरित विचारण की अपेक्षा"] },
+    "answer": { "en": "An expectation that a public body will follow its past practice or promise", "hi": "एक अपेक्षा कि एक सार्वजनिक निकाय अपनी पिछली प्रथा या वादे का पालन करेगा" }
+  },
+  {
+    "id": 320,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Council of Ministers' is collectively responsible to:", "hi": "'मंत्रिपरिषद' सामूहिक रूप से किसके प्रति उत्तरदायी है:" },
+    "options": { "en": ["The President", "The Prime Minister", "The Rajya Sabha", "The Lok Sabha"], "hi": ["राष्ट्रपति", "प्रधानमंत्री", "राज्य सभा", "लोक सभा"] },
+    "answer": { "en": "The Lok Sabha", "hi": "लोक सभा" }
+  },
+  {
+    "id": 321,
+    "subject": "BNS",
+    "question": { "en": "The BNS has introduced a new specific offense for 'sexual intercourse by deceitful means'. This targets:", "hi": "BNS ने 'छलपूर्ण साधनों से यौन संबंध' के लिए एक नया विशिष्ट अपराध पेश किया है। यह लक्षित करता है:" },
+    "options": { "en": ["Adultery", "Rape by husband", "False promise of marriage", "Prostitution"], "hi": ["व्यभिचार", "पति द्वारा बलात्कार", "विवाह का झूठा वादा", "वेश्यावृत्ति"] },
+    "answer": { "en": "False promise of marriage", "hi": "विवाह का झूठा वादा" }
+  },
+  {
+    "id": 322,
+    "subject": "BNSS",
+    "question": { "en": "The BNSS makes it mandatory for the police to inform the victim about the progress of the investigation within:", "hi": "BNSS पुलिस के लिए पीड़ित को जांच की प्रगति के बारे में सूचित करना अनिवार्य बनाता है:" },
+    "options": { "en": ["30 days", "60 days", "90 days", "120 days"], "hi": ["30 दिन", "60 दिन", "90 दिन", "120 दिन"] },
+    "answer": { "en": "90 days", "hi": "90 दिन" }
+  },
+  {
+    "id": 323,
+    "subject": "BSA",
+    "question": { "en": "Under BSA, the definition of 'document' has been expanded to explicitly include:", "hi": "BSA के तहत, 'दस्तावेज़' की परिभाषा को स्पष्ट रूप से शामिल करने के लिए विस्तारित किया गया है:" },
+    "options": { "en": ["Handwritten notes", "Printed papers", "Electronic and digital records", "Photographs"], "hi": ["हस्तलिखित नोट्स", "मुद्रित कागज", "इलेक्ट्रॉनिक और डिजिटल रिकॉर्ड", "तस्वीरें"] },
+    "answer": { "en": "Electronic and digital records", "hi": "इलेक्ट्रॉनिक और डिजिटल रिकॉर्ड" }
+  },
+  {
+    "id": 324,
+    "subject": "Evidence Act",
+    "question": { "en": "What is an 'alibi'?", "hi": "'अन्यत्र उपस्थिति' (Alibi) क्या है?" },
+    "options": { "en": ["A confession", "A defense that the accused was elsewhere when the crime was committed", "A dying declaration", "An expert opinion"], "hi": ["एक संस्वीकृति", "एक बचाव कि अपराध के समय अभियुक्त कहीं और था", "एक मृत्युकालिक कथन", "एक विशेषज्ञ की राय"] },
+    "answer": { "en": "A defense that the accused was elsewhere when the crime was committed", "hi": "एक बचाव कि अपराध के समय अभियुक्त कहीं और था" }
+  },
+  {
+    "id": 325,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is a 'caveat'?", "hi": "'कैविएट' क्या है?" },
+    "options": { "en": ["An appeal", "A notice given to the court that no order should be passed without hearing the person giving the notice", "A final decree", "A temporary injunction"], "hi": ["एक अपील", "अदालत को दी गई एक सूचना कि नोटिस देने वाले व्यक्ति को सुने बिना कोई आदेश पारित नहीं किया जाना चाहिए", "एक अंतिम डिक्री", "एक अस्थायी निषेधाज्ञा"] },
+    "answer": { "en": "A notice given to the court that no order should be passed without hearing the person giving the notice", "hi": "अदालत को दी गई एक सूचना कि नोटिस देने वाले व्यक्ति को सुने बिना कोई आदेश पारित नहीं किया जाना चाहिए" }
+  },
+  {
+    "id": 326,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "The power of a police officer to arrest without a warrant is for:", "hi": "एक पुलिस अधिकारी की बिना वारंट के गिरफ्तार करने की शक्ति किसके लिए है:" },
+    "options": { "en": ["Any offense", "Cognizable offenses only", "Non-cognizable offenses only", "Offenses against women only"], "hi": ["कोई भी अपराध", "केवल संज्ञेय अपराध", "केवल असंज्ञेय अपराध", "केवल महिलाओं के खिलाफ अपराध"] },
+    "answer": { "en": "Cognizable offenses only", "hi": "केवल संज्ञेय अपराध" }
+  },
+  {
+    "id": 327,
+    "subject": "Family Law",
+    "question": { "en": "What is the main objective of the Family Courts Act, 1984?", "hi": "परिवार न्यायालय अधिनियम, 1984 का मुख्य उद्देश्य क्या है?" },
+    "options": { "en": ["To punish the guilty party", "To promote conciliation and speedy settlement of disputes", "To deal with property disputes only", "To increase litigation"], "hi": ["दोषी पक्ष को दंडित करना", "सुलह और विवादों के शीघ्र निपटान को बढ़ावा देना", "केवल संपत्ति विवादों से निपटना", "मुकदमेबाजी बढ़ाना"] },
+    "answer": { "en": "To promote conciliation and speedy settlement of disputes", "hi": "सुलह और विवादों के शीघ्र निपटान को बढ़ावा देना" }
+  },
+  {
+    "id": 328,
+    "subject": "Law of Contract",
+    "question": { "en": "A 'voidable contract' is one which is:", "hi": "एक 'शून्यकरणीय संविदा' वह है जो:" },
+    "options": { "en": ["Not enforceable by law", "Enforceable at the option of one party but not the other", "Enforceable by both parties", "Illegal from the beginning"], "hi": ["कानून द्वारा प्रवर्तनीय नहीं है", "एक पक्ष के विकल्प पर प्रवर्तनीय है लेकिन दूसरे के नहीं", "दोनों पक्षों द्वारा प्रवर्तनीय है", "शुरू से ही अवैध है"] },
+    "answer": { "en": "Enforceable at the option of one party but not the other", "hi": "एक पक्ष के विकल्प पर प्रवर्तनीय है लेकिन दूसरे के नहीं" }
+  },
+  {
+    "id": 329,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'defamation'?", "hi": "'मानहानि' क्या है?" },
+    "options": { "en": ["A true statement that harms reputation", "A false statement that harms reputation", "An opinion about someone", "A breach of privacy"], "hi": ["एक सच्चा बयान जो प्रतिष्ठा को नुकसान पहुंचाता है", "एक झूठा बयान जो प्रतिष्ठा को नुकसान पहुंचाता है", "किसी के बारे में एक राय", "गोपनीयता का उल्लंघन"] },
+    "answer": { "en": "A false statement that harms reputation", "hi": "एक झूठा बयान जो प्रतिष्ठा को नुकसान पहुंचाता है" }
+  },
+  {
+    "id": 330,
+    "subject": "Company Law",
+    "question": { "en": "The liability of members in a 'company limited by shares' is:", "hi": "'शेयरों द्वारा सीमित कंपनी' में सदस्यों का दायित्व है:" },
+    "options": { "en": ["Unlimited", "Limited to the unpaid amount on their shares", "Limited to their personal assets", "Determined by the directors"], "hi": ["असीमित", "उनके शेयरों पर अदत्त राशि तक सीमित", "उनकी व्यक्तिगत संपत्ति तक सीमित", "निदेशकों द्वारा निर्धारित"] },
+    "answer": { "en": "Limited to the unpaid amount on their shares", "hi": "उनके शेयरों पर अदत्त राशि तक सीमित" }
+  },
+  {
+    "id": 331,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What does a 'patent' protect?", "hi": "एक 'पेटेंट' किसकी रक्षा करता है?" },
+    "options": { "en": ["A brand name", "An artistic work", "An invention", "A secret recipe"], "hi": ["एक ब्रांड नाम", "एक कलात्मक कृति", "एक आविष्कार", "एक गुप्त नुस्खा"] },
+    "answer": { "en": "An invention", "hi": "एक आविष्कार" }
+  },
+  {
+    "id": 332,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Ordinance' making power of the President is:", "hi": "राष्ट्रपति की 'अध्यादेश' बनाने की शक्ति है:" },
+    "options": { "en": ["A permanent power", "A co-extensive power with the Parliament", "A temporary power", "An absolute power"], "hi": ["एक स्थायी शक्ति", "संसद के साथ एक सह-व्यापक शक्ति", "एक अस्थायी शक्ति", "एक पूर्ण शक्ति"] },
+    "answer": { "en": "A co-extensive power with the Parliament", "hi": "संसद के साथ एक सह-व्यापक शक्ति" }
+  },
+  {
+    "id": 333,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is the difference between 'abduction' and 'kidnapping'?", "hi": "'अपहरण' और 'व्यपहरण' के बीच क्या अंतर है?" },
+    "options": { "en": ["Age of the victim", "Consent of the victim", "Force is always used in abduction", "Both a and b"], "hi": ["पीड़ित की उम्र", "पीड़ित की सहमति", "अपहरण में हमेशा बल का प्रयोग होता है", "a और b दोनों"] },
+    "answer": { "en": "Both a and b", "hi": "a और b दोनों" }
+  },
+  {
+    "id": 334,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is a 'summary trial'?", "hi": "'संक्षिप्त विचारण' क्या है?" },
+    "options": { "en": ["A trial for serious offenses", "A speedy trial for petty offenses", "A trial without a lawyer", "A trial in the High Court"], "hi": ["गंभीर अपराधों के लिए एक विचारण", "छोटे अपराधों के लिए एक त्वरित विचारण", "एक वकील के बिना एक विचारण", "उच्च न्यायालय में एक विचारण"] },
+    "answer": { "en": "A speedy trial for petty offenses", "hi": "छोटे अपराधों के लिए एक त्वरित विचारण" }
+  },
+  {
+    "id": 335,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "The 'inherent powers' of the civil court are saved under which section?", "hi": "दीवानी अदालत की 'अंतर्निहित शक्तियां' किस धारा के तहत संरक्षित हैं?" },
+    "options": { "en": ["Section 144", "Section 148", "Section 151", "Section 152"], "hi": ["धारा 144", "धारा 148", "धारा 151", "धारा 152"] },
+    "answer": { "en": "Section 151", "hi": "धारा 151" }
+  },
+  {
+    "id": 336,
+    "subject": "Evidence Act",
+    "question": { "en": "What is 'secondary evidence'?", "hi": "'द्वितीयक साक्ष्य' क्या है?" },
+    "options": { "en": ["The original document", "Certified copies, copies made from the original, etc.", "Oral testimony", "Expert opinion"], "hi": ["मूल दस्तावेज़", "प्रमाणित प्रतियां, मूल से बनाई गई प्रतियां, आदि।", "मौखिक गवाही", "विशेषज्ञ की राय"] },
+    "answer": { "en": "Certified copies, copies made from the original, etc.", "hi": "प्रमाणित प्रतियां, मूल से बनाई गई प्रतियां, आदि।" }
+  },
+  {
+    "id": 337,
+    "subject": "Family Law",
+    "question": { "en": "Under the Hindu Marriage Act, 'sapinda' relationship is a ground for:", "hi": "हिंदू विवाह अधिनियम के तहत, 'सपिंड' संबंध किसके लिए एक आधार है:" },
+    "options": { "en": ["A valid marriage", "A void marriage", "A voidable marriage", "Judicial separation"], "hi": ["एक वैध विवाह", "एक शून्य विवाह", "एक शून्यकरणीय विवाह", "न्यायिक पृथक्करण"] },
+    "answer": { "en": "A void marriage", "hi": "एक शून्य विवाह" }
+  },
+  {
+    "id": 338,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'coercion'?", "hi": "'प्रपीड़न' क्या है?" },
+    "options": { "en": ["Committing any act forbidden by the IPC to compel someone to enter into a contract", "A false statement", "A mistake of law", "An unfair advantage"], "hi": ["किसी को एक संविदा में प्रवेश करने के लिए मजबूर करने के लिए IPC द्वारा निषिद्ध कोई भी कार्य करना", "एक झूठा बयान", "कानून की एक गलती", "एक अनुचित लाभ"] },
+    "answer": { "en": "Committing any act forbidden by the IPC to compel someone to enter into a contract", "hi": "किसी को एक संविदा में प्रवेश करने के लिए मजबूर करने के लिए IPC द्वारा निषिद्ध कोई भी कार्य करना" }
+  },
+  {
+    "id": 339,
+    "subject": "Law of Tort",
+    "question": { "en": "The maxim 'res ipsa loquitur' means:", "hi": "सूत्र 'रेस इप्सा लोक्यूटर' का अर्थ है:" },
+    "options": { "en": ["The thing speaks for itself", "Let the buyer beware", "Injury without damage", "An act of God"], "hi": ["बात स्वयं बोलती है", "क्रेता सावधान रहे", "नुकसान के बिना चोट", "दैवीय कृत्य"] },
+    "answer": { "en": "The thing speaks for itself", "hi": "बात स्वयं बोलती है" }
+  },
+  {
+    "id": 340,
+    "subject": "Milestone Rulings",
+    "question": { "en": "The case of 'M.C. Mehta v. Union of India' is a landmark case related to:", "hi": "'एम.सी. मेहता बनाम भारत संघ' का मामला किससे संबंधित एक ऐतिहासिक मामला है:" },
+    "options": { "en": ["Fundamental Rights", "Environmental Protection", "Criminal Law", "Company Law"], "hi": ["मौलिक अधिकार", "पर्यावरण संरक्षण", "आपराधिक कानून", "कंपनी कानून"] },
+    "answer": { "en": "Environmental Protection", "hi": "पर्यावरण संरक्षण" }
+  },
+  {
+    "id": 341,
+    "subject": "Administrative Law",
+    "question": { "en": "What is the 'rule of law'?", "hi": "'विधि का शासन' क्या है?" },
+    "options": { "en": ["Supremacy of the ruler", "Supremacy of the law and absence of arbitrary power", "Supremacy of the Parliament", "Supremacy of the Constitution"], "hi": ["शासक की सर्वोच्चता", "कानून की सर्वोच्चता और मनमानी शक्ति का अभाव", "संसद की सर्वोच्चता", "संविधान की सर्वोच्चता"] },
+    "answer": { "en": "Supremacy of the law and absence of arbitrary power", "hi": "कानून की सर्वोच्चता और मनमानी शक्ति का अभाव" }
+  },
+  {
+    "id": 342,
+    "subject": "Constitutional Law",
+    "question": { "en": "Which schedule of the Constitution deals with the division of powers between the Union and the States?", "hi": "संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के विभाजन से संबंधित है?" },
+    "options": { "en": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"], "hi": ["पांचवीं अनुसूची", "छठी अनुसूची", "सातवीं अनुसूची", "आठवीं अनुसूची"] },
+    "answer": { "en": "Seventh Schedule", "hi": "सातवीं अनुसूची" }
+  },
+  {
+    "id": 343,
+    "subject": "BNS",
+    "question": { "en": "The BNS categorizes 'petty organized crime' for the first time. Which of the following falls under it?", "hi": "BNS पहली बार 'छोटे संगठित अपराध' को वर्गीकृत करता है। निम्नलिखित में से कौन इसके अंतर्गत आता है?" },
+    "options": { "en": ["Murder", "Kidnapping", "Vehicle theft by an organized group", "Terrorism"], "hi": ["हत्या", "व्यपहरण", "एक संगठित समूह द्वारा वाहन चोरी", "आतंकवाद"] },
+    "answer": { "en": "Vehicle theft by an organized group", "hi": "एक संगठित समूह द्वारा वाहन चोरी" }
+  },
+  {
+    "id": 344,
+    "subject": "BNSS",
+    "question": { "en": "The BNSS mandates that a police officer must inform the accused of his right to:", "hi": "BNSS यह अनिवार्य करता है कि एक पुलिस अधिकारी अभियुक्त को उसके किस अधिकार के बारे में सूचित करे:" },
+    "options": { "en": ["Remain silent", "Meet a lawyer of his choice", "A speedy trial", "Free legal aid"], "hi": ["चुप रहने का", "अपनी पसंद के एक वकील से मिलने का", "एक त्वरित विचारण का", "निःशुल्क कानूनी सहायता का"] },
+    "answer": { "en": "Meet a lawyer of his choice", "hi": "अपनी पसंद के एक वकील से मिलने का" }
+  },
+  {
+    "id": 345,
+    "subject": "BSA",
+    "question": { "en": "The BSA makes which of the following admissible as primary evidence?", "hi": "BSA निम्नलिखित में से किसे प्राथमिक साक्ष्य के रूप में स्वीकार्य बनाता है?" },
+    "options": { "en": ["A photocopy", "An oral account of a document", "An electronic record stored in a proper custody", "A handwritten copy"], "hi": ["एक फोटोकॉपी", "एक दस्तावेज़ का एक मौखिक विवरण", "एक उचित अभिरक्षा में संग्रहीत एक इलेक्ट्रॉनिक रिकॉर्ड", "एक हस्तलिखित प्रति"] },
+    "answer": { "en": "An electronic record stored in a proper custody", "hi": "एक उचित अभिरक्षा में संग्रहीत एक इलेक्ट्रॉनिक रिकॉर्ड" }
+  },
+  {
+    "id": 346,
+    "subject": "Evidence Act",
+    "question": { "en": "What is a 'fact in issue'?", "hi": "'विवाद्यक तथ्य' क्या है?" },
+    "options": { "en": ["Any fact from which the existence of a right or liability can be inferred", "A fact that is not disputed", "A fact mentioned in the FIR", "A fact proved by evidence"], "hi": ["कोई भी तथ्य जिससे किसी अधिकार या दायित्व के अस्तित्व का अनुमान लगाया जा सकता है", "एक तथ्य जो विवादित नहीं है", "FIR में उल्लिखित एक तथ्य", "साक्ष्य द्वारा सिद्ध एक तथ्य"] },
+    "answer": { "en": "Any fact from which the existence of a right or liability can be inferred", "hi": "कोई भी तथ्य जिससे किसी अधिकार या दायित्व के अस्तित्व का अनुमान लगाया जा सकता है" }
+  },
+  {
+    "id": 347,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is the consequence of non-appearance of the plaintiff when the suit is called for hearing?", "hi": "जब वाद सुनवाई के लिए बुलाया जाता है तो वादी के उपस्थित न होने का क्या परिणाम होता है?" },
+    "options": { "en": ["The suit is decreed", "The suit may be dismissed", "The court waits for the plaintiff", "A warrant is issued against the plaintiff"], "hi": ["वाद में डिक्री हो जाती है", "वाद खारिज किया जा सकता है", "अदालत वादी का इंतजार करती है", "वादी के खिलाफ एक वारंट जारी किया जाता है"] },
+    "answer": { "en": "The suit may be dismissed", "hi": "वाद खारिज किया जा सकता है" }
+  },
+  {
+    "id": 348,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "The process to compel the appearance of a person in court is:", "hi": "अदालत में एक व्यक्ति की उपस्थिति को मजबूर करने की प्रक्रिया है:" },
+    "options": { "en": ["Summons and Warrant", "Injunction", "Decree", "Attachment"], "hi": ["समन और वारंट", "निषेधाज्ञा", "डिक्री", "कुर्की"] },
+    "answer": { "en": "Summons and Warrant", "hi": "समन और वारंट" }
+  },
+  {
+    "id": 349,
+    "subject": "Family Law",
+    "question": { "en": "The concept of 'cruelty' as a ground for divorce includes:", "hi": "तलाक के आधार के रूप में 'क्रूरता' की अवधारणा में शामिल है:" },
+    "options": { "en": ["Physical cruelty only", "Mental cruelty only", "Both physical and mental cruelty", "Economic cruelty only"], "hi": ["केवल शारीरिक क्रूरता", "केवल मानसिक क्रूरता", "शारीरिक और मानसिक दोनों क्रूरता", "केवल आर्थिक क्रूरता"] },
+    "answer": { "en": "Both physical and mental cruelty", "hi": "शारीरिक और मानसिक दोनों क्रूरता" }
+  },
+  {
+    "id": 350,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'misrepresentation'?", "hi": "'दुर्व्यपदेशन' क्या है?" },
+    "options": { "en": ["An intentional false statement", "An innocent false statement", "A breach of promise", "A mistake of fact"], "hi": ["एक जानबूझकर किया गया झूठा बयान", "एक निर्दोष झूठा बयान", "एक वादे का उल्लंघन", "तथ्य की एक गलती"] },
+    "answer": { "en": "An innocent false statement", "hi": "एक निर्दोष झूठा बयान" }
+  },
+  {
+    "id": 351,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'strict liability'?", "hi": "'कठोर दायित्व' क्या है?" },
+    "options": { "en": ["Liability based on fault", "Liability without fault for inherently dangerous activities", "Liability of the state", "Liability for breach of contract"], "hi": ["दोष पर आधारित दायित्व", "स्वाभाविक रूप से खतरनाक गतिविधियों के लिए बिना दोष के दायित्व", "राज्य का दायित्व", "संविदा के उल्लंघन के लिए दायित्व"] },
+    "answer": { "en": "Liability without fault for inherently dangerous activities", "hi": "स्वाभाविक रूप से खतरनाक गतिविधियों के लिए बिना दोष के दायित्व" }
+  },
+  {
+    "id": 352,
+    "subject": "Company Law",
+    "question": { "en": "A 'holding company' is one which:", "hi": "एक 'नियंत्री कंपनी' वह है जो:" },
+    "options": { "en": ["Is owned by the government", "Controls the composition of the Board of Directors of another company", "Is in the process of winding up", "Has more than 200 members"], "hi": ["सरकार के स्वामित्व में है", "दूसरी कंपनी के निदेशक मंडल की संरचना को नियंत्रित करती है", "समापन की प्रक्रिया में है", "200 से अधिक सदस्य हैं"] },
+    "answer": { "en": "Controls the composition of the Board of Directors of another company", "hi": "दूसरी कंपनी के निदेशक मंडल की संरचना को नियंत्रित करती है" }
+  },
+  {
+    "id": 353,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What is a 'Geographical Indication' (GI)?", "hi": "'भौगोलिक संकेत' (GI) क्या है?" },
+    "options": { "en": ["A sign used on products that have a specific geographical origin", "A patent for a location", "A trademark for a country", "A copyright for a map"], "hi": ["उन उत्पादों पर इस्तेमाल किया जाने वाला एक चिह्न जिनकी एक विशिष्ट भौगोलिक उत्पत्ति है", "एक स्थान के लिए एक पेटेंट", "एक देश के लिए एक ट्रेडमार्क", "एक नक्शे के लिए एक कॉपीराइट"] },
+    "answer": { "en": "A sign used on products that have a specific geographical origin", "hi": "उन उत्पादों पर इस्तेमाल किया जाने वाला एक चिह्न जिनकी एक विशिष्ट भौगोलिक उत्पत्ति है" }
+  },
+  {
+    "id": 354,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Doctrine of Pith and Substance' is used to determine:", "hi": "'सार और तत्व के सिद्धांत' का उपयोग यह निर्धारित करने के लिए किया जाता है:" },
+    "options": { "en": ["The fundamental rights of citizens", "The true nature of a legislation to ascertain which list it falls under", "The powers of the President", "The independence of the judiciary"], "hi": ["नागरिकों के मौलिक अधिकार", "एक विधान की वास्तविक प्रकृति का पता लगाना ताकि यह पता चल सके कि यह किस सूची के अंतर्गत आता है", "राष्ट्रपति की शक्तियां", "न्यायपालिका की स्वतंत्रता"] },
+    "answer": { "en": "The true nature of a legislation to ascertain which list it falls under", "hi": "एक विधान की वास्तविक प्रकृति का पता लगाना ताकि यह पता चल सके कि यह किस सूची के अंतर्गत आता है" }
+  },
+  {
+    "id": 355,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is the minimum number of persons required for an 'unlawful assembly'?", "hi": "'विधि विरुद्ध जमाव' के लिए न्यूनतम कितने व्यक्तियों की आवश्यकता होती है?" },
+    "options": { "en": ["2", "3", "4", "5"], "hi": ["2", "3", "4", "5"] },
+    "answer": { "en": "5", "hi": "5" }
+  },
+  {
+    "id": 356,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is the effect of an 'irregularity' in proceedings?", "hi": "कार्यवाही में 'अनियमितता' का क्या प्रभाव होता है?" },
+    "options": { "en": ["It always vitiates the proceedings", "It never vitiates the proceedings", "It may vitiate the proceedings if it has caused a failure of justice", "It leads to a retrial"], "hi": ["यह हमेशा कार्यवाही को दूषित करता है", "यह कभी भी कार्यवाही को दूषित नहीं करता है", "यह कार्यवाही को दूषित कर सकता है यदि इसके कारण न्याय की विफलता हुई है", "यह एक पुनर्विचारण की ओर ले जाता है"] },
+    "answer": { "en": "It may vitiate the proceedings if it has caused a failure of justice", "hi": "यह कार्यवाही को दूषित कर सकता है यदि इसके कारण न्याय की विफलता हुई है" }
+  },
+  {
+    "id": 357,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is 'mesne profits'?", "hi": "'अंतःकालीन लाभ' क्या है?" },
+    "options": { "en": ["The profits received by a person in wrongful possession of property", "The final profit from a business", "The profit shared by partners", "The profit from an illegal transaction"], "hi": ["संपत्ति पर गलत कब्जे वाले व्यक्ति द्वारा प्राप्त लाभ", "एक व्यवसाय से अंतिम लाभ", "भागीदारों द्वारा साझा किया गया लाभ", "एक अवैध लेनदेन से लाभ"] },
+    "answer": { "en": "The profits received by a person in wrongful possession of property", "hi": "संपत्ति पर गलत कब्जे वाले व्यक्ति द्वारा प्राप्त लाभ" }
+  },
+  {
+    "id": 358,
+    "subject": "Evidence Act",
+    "question": { "en": "The 'doctrine of estoppel' prevents a person from:", "hi": "'विबंधन का सिद्धांत' एक व्यक्ति को रोकता है:" },
+    "options": { "en": ["Giving evidence", "Denying the truth of a previous statement or act", "Filing a case", "Appealing a decision"], "hi": ["साक्ष्य देने से", "पिछले बयान या कार्य की सच्चाई से इनकार करने से", "मामला दायर करने से", "एक निर्णय की अपील करने से"] },
+    "answer": { "en": "Denying the truth of a previous statement or act", "hi": "पिछले बयान या कार्य की सच्चाई से इनकार करने से" }
+  },
+  {
+    "id": 359,
+    "subject": "Family Law",
+    "question": { "en": "What is 'bigamy'?", "hi": "'द्विविवाह' क्या है?" },
+    "options": { "en": ["Marrying for the second time after divorce", "The act of marrying someone while already married to another person", "A marriage between two different religions", "A marriage without parental consent"], "hi": ["तलाक के बाद दूसरी बार शादी करना", "किसी अन्य व्यक्ति से पहले से शादीशुदा होते हुए किसी से शादी करने का कार्य", "दो अलग-अलग धर्मों के बीच एक विवाह", "माता-पिता की सहमति के बिना एक विवाह"] },
+    "answer": { "en": "The act of marrying someone while already married to another person", "hi": "किसी अन्य व्यक्ति से पहले से शादीशुदा होते हुए किसी से शादी करने का कार्य" }
+  },
+  {
+    "id": 360,
+    "subject": "Law of Contract",
+    "question": { "en": "What is a 'contract of guarantee'?", "hi": "'प्रत्याभूति की संविदा' क्या है?" },
+    "options": { "en": ["A contract to pay a debt owed by a third person in case of his default", "A contract of insurance", "A contract of indemnity", "A contract of bailment"], "hi": ["किसी तीसरे व्यक्ति द्वारा उसके व्यतिक्रम की स्थिति में देय ऋण का भुगतान करने की संविदा", "एक बीमा की संविदा", "एक क्षतिपूर्ति की संविदा", "एक उपनिधान की संविदा"] },
+    "answer": { "en": "A contract to pay a debt owed by a third person in case of his default", "hi": "किसी तीसरे व्यक्ति द्वारा उसके व्यतिक्रम की स्थिति में देय ऋण का भुगतान करने की संविदा" }
+  },
+  {
+    "id": 361,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'vicarious liability'?", "hi": "'प्रतिनिधिक दायित्व' क्या है?" },
+    "options": { "en": ["Liability for one's own actions", "Liability for the actions of another person (e.g., an employee)", "Liability without fault", "Criminal liability"], "hi": ["अपने स्वयं के कार्यों के लिए दायित्व", "किसी अन्य व्यक्ति (जैसे, एक कर्मचारी) के कार्यों के लिए दायित्व", "बिना दोष के दायित्व", "आपराधिक दायित्व"] },
+    "answer": { "en": "Liability for the actions of another person (e.g., an employee)", "hi": "किसी अन्य व्यक्ति (जैसे, एक कर्मचारी) के कार्यों के लिए दायित्व" }
+  },
+  {
+    "id": 362,
+    "subject": "Milestone Rulings",
+    "question": { "en": "The 'collegium system' for the appointment of judges was established by the Supreme Court in which case?", "hi": "न्यायाधीशों की नियुक्ति के लिए 'कॉलेजियम प्रणाली' सर्वोच्च न्यायालय द्वारा किस मामले में स्थापित की गई थी?" },
+    "options": { "en": ["S.P. Gupta v. Union of India (First Judges Case)", "Supreme Court Advocates-on-Record Association v. Union of India (Second Judges Case)", "In re Special Reference 1 of 1998 (Third Judges Case)", "Both b and c"], "hi": ["एस.पी. गुप्ता बनाम भारत संघ (प्रथम न्यायाधीश मामला)", "सुप्रीम कोर्ट एडवोकेट्स-ऑन-रिकॉर्ड एसोसिएशन बनाम भारत संघ (द्वितीय न्यायाधीश मामला)", "इन रे स्पेशल रेफरेंस 1 ऑफ 1998 (तृतीय न्यायाधीश मामला)", "b और c दोनों"] },
+    "answer": { "en": "Both b and c", "hi": "b और c दोनों" }
+  },
+  {
+    "id": 363,
+    "subject": "Administrative Law",
+    "question": { "en": "What is a 'quasi-judicial' function?", "hi": "'अर्ध-न्यायिक' कार्य क्या है?" },
+    "options": { "en": ["A purely administrative function", "A function that has some attributes of a judicial function, like determining rights", "A legislative function", "A function of the police"], "hi": ["एक विशुद्ध रूप से प्रशासनिक कार्य", "एक कार्य जिसमें न्यायिक कार्य के कुछ गुण होते हैं, जैसे अधिकारों का निर्धारण करना", "एक विधायी कार्य", "पुलिस का एक कार्य"] },
+    "answer": { "en": "A function that has some attributes of a judicial function, like determining rights", "hi": "एक कार्य जिसमें न्यायिक कार्य के कुछ गुण होते हैं, जैसे अधिकारों का निर्धारण करना" }
+  },
+  {
+    "id": 364,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Right to Freedom of Religion' is guaranteed under which Articles?", "hi": "'धर्म की स्वतंत्रता का अधिकार' किन अनुच्छेदों के तहत गारंटीकृत है?" },
+    "options": { "en": ["Articles 14-18", "Articles 19-22", "Articles 23-24", "Articles 25-28"], "hi": ["अनुच्छेद 14-18", "अनुच्छेद 19-22", "अनुच्छेद 23-24", "अनुच्छेद 25-28"] },
+    "answer": { "en": "Articles 25-28", "hi": "अनुच्छेद 25-28" }
+  },
+  {
+    "id": 365,
+    "subject": "BNS",
+    "question": { "en": "The BNS enhances the punishment for causing death by rash and negligent driving if the driver:", "hi": "BNS तेज और लापरवाही से गाड़ी चलाने से मृत्यु कारित करने की सजा को बढ़ाता है यदि चालक:" },
+    "options": { "en": ["Is drunk", "Flees from the scene and does not report to the police", "Is a repeat offender", "Is driving a commercial vehicle"], "hi": ["नशे में है", "घटनास्थल से भाग जाता है और पुलिस को रिपोर्ट नहीं करता है", "एक आदतन अपराधी है", "एक वाणिज्यिक वाहन चला रहा है"] },
+    "answer": { "en": "Flees from the scene and does not report to the police", "hi": "घटनास्थल से भाग जाता है और पुलिस को रिपोर्ट नहीं करता है" }
+  },
+  {
+    "id": 366,
+    "subject": "BNSS",
+    "question": { "en": "The BNSS provides for the protection of witnesses. This is known as:", "hi": "BNSS गवाहों की सुरक्षा का प्रावधान करता है। इसे किस रूप में जाना जाता है:" },
+    "options": { "en": ["Witness Security Program", "Witness Protection Scheme", "Witness Safety Protocol", "Witness Assurance Plan"], "hi": ["गवाह सुरक्षा कार्यक्रम", "गवाह संरक्षण योजना", "गवाह सुरक्षा प्रोटोकॉल", "गवाह आश्वासन योजना"] },
+    "answer": { "en": "Witness Protection Scheme", "hi": "गवाह संरक्षण योजना" }
+  },
+  {
+    "id": 367,
+    "subject": "BSA",
+    "question": { "en": "Under BSA, an opinion of an expert can be challenged on the ground of:", "hi": "BSA के तहत, एक विशेषज्ञ की राय को किस आधार पर चुनौती दी जा सकती है:" },
+    "options": { "en": ["His qualification", "The accuracy of the data he used", "His personal character", "Both a and b"], "hi": ["उसकी योग्यता", "उसके द्वारा उपयोग किए गए डेटा की सटीकता", "उसका व्यक्तिगत चरित्र", "a और b दोनों"] },
+    "answer": { "en": "Both a and b", "hi": "a और b दोनों" }
+  },
+  {
+    "id": 368,
+    "subject": "Evidence Act",
+    "question": { "en": "What is a 'document' as per the Evidence Act?", "hi": "साक्ष्य अधिनियम के अनुसार 'दस्तावेज़' क्या है?" },
+    "options": { "en": ["Only writing on paper", "Any matter expressed or described upon any substance by means of letters, figures or marks", "A book or a file", "A court record"], "hi": ["केवल कागज पर लेखन", "अक्षरों, अंकों या चिह्नों के माध्यम से किसी भी पदार्थ पर व्यक्त या वर्णित कोई भी मामला", "एक किताब या एक फाइल", "एक अदालत का रिकॉर्ड"] },
+    "answer": { "en": "Any matter expressed or described upon any substance by means of letters, figures or marks", "hi": "अक्षरों, अंकों या चिह्नों के माध्यम से किसी भी पदार्थ पर व्यक्त या वर्णित कोई भी मामला" }
+  },
+  {
+    "id": 369,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is 'substituted service' of summons?", "hi": "समन की 'प्रतिस्थापित तामील' क्या है?" },
+    "options": { "en": ["Serving summons on a family member", "Affixing a copy of the summons on the defendant's house when he cannot be found", "Serving summons via email", "Publishing the summons in a newspaper"], "hi": ["एक परिवार के सदस्य पर समन की तामील करना", "जब प्रतिवादी नहीं मिल सकता है तो उसके घर पर समन की एक प्रति चिपकाना", "ईमेल के माध्यम से समन की तामील करना", "एक समाचार पत्र में समन प्रकाशित करना"] },
+    "answer": { "en": "Affixing a copy of the summons on the defendant's house when he cannot be found", "hi": "जब प्रतिवादी नहीं मिल सकता है तो उसके घर पर समन की एक प्रति चिपकाना" }
+  },
+  {
+    "id": 370,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is the object of 'remand'?", "hi": "'रिमांड' का उद्देश्य क्या है?" },
+    "options": { "en": ["To punish the accused", "To allow the police more time for investigation", "To keep the accused in jail", "To start the trial"], "hi": ["अभियुक्त को दंडित करना", "पुलिस को जांच के लिए और समय देना", "अभियुक्त को जेल में रखना", "विचारण शुरू करना"] },
+    "answer": { "en": "To allow the police more time for investigation", "hi": "पुलिस को जांच के लिए और समय देना" }
+  },
+  {
+    "id": 371,
+    "subject": "Family Law",
+    "question": { "en": "A 'will' in Muslim law is known as:", "hi": "मुस्लिम कानून में एक 'वसीयत' को किस रूप में जाना जाता है:" },
+    "options": { "en": ["Hiba", "Wasiyat", "Mahr", "Waqf"], "hi": ["हिबा", "वसीयत", "मेहर", "वक्फ"] },
+    "answer": { "en": "Wasiyat", "hi": "वसीयत" }
+  },
+  {
+    "id": 372,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'quantum meruit'?", "hi": "'यथा अर्जित' (quantum meruit) क्या है?" },
+    "options": { "en": ["A claim for reasonable remuneration for the work done", "A claim for damages", "A claim for specific performance", "A penalty clause"], "hi": ["किए गए कार्य के लिए उचित पारिश्रमिक का दावा", "नुकसान का दावा", "विशिष्ट प्रदर्शन का दावा", "एक दंड खंड"] },
+    "answer": { "en": "A claim for reasonable remuneration for the work done", "hi": "किए गए कार्य के लिए उचित पारिश्रमिक का दावा" }
+  },
+  {
+    "id": 373,
+    "subject": "Law of Tort",
+    "question": { "en": "The maxim 'damnum sine injuria' means:", "hi": "सूत्र 'डैमनम साइन इंजुरिया' का अर्थ है:" },
+    "options": { "en": ["Damage with legal injury", "Damage without any legal injury", "Legal injury without damage", "No damage, no injury"], "hi": ["कानूनी चोट के साथ नुकसान", "बिना किसी कानूनी चोट के नुकसान", "नुकसान के बिना कानूनी चोट", "कोई नुकसान नहीं, कोई चोट नहीं"] },
+    "answer": { "en": "Damage without any legal injury", "hi": "बिना किसी कानूनी चोट के नुकसान" }
+  },
+  {
+    "id": 374,
+    "subject": "Company Law",
+    "question": { "en": "Who appoints the first directors of a company?", "hi": "एक कंपनी के पहले निदेशकों की नियुक्ति कौन करता है?" },
+    "options": { "en": ["The shareholders", "The promoters", "The Registrar of Companies", "The Central Government"], "hi": ["शेयरधारक", "प्रवर्तक", "कंपनियों के रजिस्ट्रार", "केंद्र सरकार"] },
+    "answer": { "en": "The promoters", "hi": "प्रवर्तक" }
+  },
+  {
+    "id": 375,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What is the main purpose of the 'Designs Act, 2000'?", "hi": "'डिजाइन अधिनियम, 2000' का मुख्य उद्देश्य क्या है?" },
+    "options": { "en": ["To protect inventions", "To protect brand names", "To protect the aesthetic features of a product", "To protect literary works"], "hi": ["आविष्कारों की रक्षा करना", "ब्रांड नामों की रक्षा करना", "एक उत्पाद की सौंदर्य विशेषताओं की रक्षा करना", "साहित्यिक कृतियों की रक्षा करना"] },
+    "answer": { "en": "To protect the aesthetic features of a product", "hi": "एक उत्पाद की सौंदर्य विशेषताओं की रक्षा करना" }
+  },
+  {
+    "id": 376,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'power of judicial review' means the power of the courts to:", "hi": "'न्यायिक समीक्षा की शक्ति' का अर्थ है अदालतों की शक्ति:" },
+    "options": { "en": ["Review their own judgments", "Examine the constitutionality of legislative and executive actions", "Review the decisions of lower courts", "Advise the President"], "hi": ["अपने स्वयं के निर्णयों की समीक्षा करना", "विधायी और कार्यकारी कार्यों की संवैधानिकता की जांच करना", "निचली अदालतों के निर्णयों की समीक्षा करना", "राष्ट्रपति को सलाह देना"] },
+    "answer": { "en": "Examine the constitutionality of legislative and executive actions", "hi": "विधायी और कार्यकारी कार्यों की संवैधानिकता की जांच करना" }
+  },
+  {
+    "id": 377,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is 'wrongful restraint'?", "hi": "'सदोष अवरोध' क्या है?" },
+    "options": { "en": ["Confining a person within certain limits", "Preventing a person from proceeding in any direction in which he has a right to proceed", "Causing physical injury", "Threatening a person"], "hi": ["एक व्यक्ति को कुछ सीमाओं के भीतर सीमित करना", "एक व्यक्ति को किसी भी दिशा में आगे बढ़ने से रोकना जिसमें उसे आगे बढ़ने का अधिकार है", "शारीरिक चोट पहुंचाना", "एक व्यक्ति को धमकी देना"] },
+    "answer": { "en": "Preventing a person from proceeding in any direction in which he has a right to proceed", "hi": "एक व्यक्ति को किसी भी दिशा में आगे बढ़ने से रोकना जिसमें उसे आगे बढ़ने का अधिकार है" }
+  },
+  {
+    "id": 378,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "A 'charge' is framed by:", "hi": "एक 'आरोप' किसके द्वारा बनाया जाता है:" },
+    "options": { "en": ["The police", "The complainant", "The court", "The public prosecutor"], "hi": ["पुलिस", "शिकायतकर्ता", "अदालत", "लोक अभियोजक"] },
+    "answer": { "en": "The court", "hi": "अदालत" }
+  },
+  {
+    "id": 379,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is an 'adjournment'?", "hi": "'स्थगन' क्या है?" },
+    "options": { "en": ["The final decision of the court", "The postponement of a hearing to a later date", "A temporary order", "An appeal"], "hi": ["अदालत का अंतिम निर्णय", "एक सुनवाई को बाद की तारीख के लिए स्थगित करना", "एक अस्थायी आदेश", "एक अपील"] },
+    "answer": { "en": "The postponement of a hearing to a later date", "hi": "एक सुनवाई को बाद की तारीख के लिए स्थगित करना" }
+  },
+  {
+    "id": 380,
+    "subject": "Evidence Act",
+    "question": { "en": "What is 'circumstantial evidence'?", "hi": "'परिस्थितिजन्य साक्ष्य' क्या है?" },
+    "options": { "en": ["Direct evidence", "Evidence of circumstances from which the existence of a fact in issue can be inferred", "Hearsay evidence", "Expert evidence"], "hi": ["प्रत्यक्ष साक्ष्य", "उन परिस्थितियों का साक्ष्य जिनसे विवाद्यक तथ्य के अस्तित्व का अनुमान लगाया जा सकता है", "अनुश्रुत साक्ष्य", "विशेषज्ञ साक्ष्य"] },
+    "answer": { "en": "Evidence of circumstances from which the existence of a fact in issue can be inferred", "hi": "उन परिस्थितियों का साक्ष्य जिनसे विवाद्यक तथ्य के अस्तित्व का अनुमान लगाया जा सकता है" }
+  },
+  {
+    "id": 381,
+    "subject": "Family Law",
+    "question": { "en": "What is 'Hiba' in Muslim law?", "hi": "मुस्लिम कानून में 'हिबा' क्या है?" },
+    "options": { "en": ["A will", "A gift", "A marriage contract", "A dower"], "hi": ["एक वसीयत", "एक उपहार", "एक विवाह संविदा", "एक मेहर"] },
+    "answer": { "en": "A gift", "hi": "एक उपहार" }
+  },
+  {
+    "id": 382,
+    "subject": "Law of Contract",
+    "question": { "en": "A 'bailment' is the:", "hi": "एक 'उपनिधान' है:" },
+    "options": { "en": ["Sale of goods", "Delivery of goods for a specific purpose", "Gift of goods", "Mortgage of goods"], "hi": ["माल की बिक्री", "एक विशिष्ट उद्देश्य के लिए माल की डिलीवरी", "माल का उपहार", "माल का बंधक"] },
+    "answer": { "en": "Delivery of goods for a specific purpose", "hi": "एक विशिष्ट उद्देश्य के लिए माल की डिलीवरी" }
+  },
+  {
+    "id": 383,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'nuisance'?", "hi": "'उपताप' क्या है?" },
+    "options": { "en": ["An unlawful interference with a person's use or enjoyment of land", "A physical attack", "A false statement", "A breach of contract"], "hi": ["एक व्यक्ति के भूमि के उपयोग या आनंद में एक गैरकानूनी हस्तक्षेप", "एक शारीरिक हमला", "एक झूठा बयान", "एक संविदा का उल्लंघन"] },
+    "answer": { "en": "An unlawful interference with a person's use or enjoyment of land", "hi": "एक व्यक्ति के भूमि के उपयोग या आनंद में एक गैरकानूनी हस्तक्षेप" }
+  },
+  {
+    "id": 384,
+    "subject": "Milestone Rulings",
+    "question": { "en": "The case of 'Kesavananda Bharati v. State of Kerala' is most famous for:", "hi": "'केशवानंद भारती बनाम केरल राज्य' का मामला सबसे प्रसिद्ध है:" },
+    "options": { "en": ["Right to property", "The Basic Structure Doctrine", "Right to equality", "Freedom of speech"], "hi": ["संपत्ति का अधिकार", "मूल संरचना सिद्धांत", "समानता का अधिकार", "भाषण की स्वतंत्रता"] },
+    "answer": { "en": "The Basic Structure Doctrine", "hi": "मूल संरचना सिद्धांत" }
+  },
+  {
+    "id": 385,
+    "subject": "Administrative Law",
+    "question": { "en": "What is 'natural justice'?", "hi": "'नैसर्गिक न्याय' क्या है?" },
+    "options": { "en": ["Justice based on nature", "A set of principles ensuring fairness in decision-making (e.g., right to be heard)", "Justice delivered by a special court", "Justice for environmental issues"], "hi": ["प्रकृति पर आधारित न्याय", "निर्णय लेने में निष्पक्षता सुनिश्चित करने वाले सिद्धांतों का एक सेट (जैसे, सुने जाने का अधिकार)", "एक विशेष अदालत द्वारा दिया गया न्याय", "पर्यावरणीय मुद्दों के लिए न्याय"] },
+    "answer": { "en": "A set of principles ensuring fairness in decision-making (e.g., right to be heard)", "hi": "निर्णय लेने में निष्पक्षता सुनिश्चित करने वाले सिद्धांतों का एक सेट (जैसे, सुने जाने का अधिकार)" }
+  },
+  {
+    "id": 386,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Eighth Schedule' of the Constitution recognizes:", "hi": "संविधान की 'आठवीं अनुसूची' मान्यता देती है:" },
+    "options": { "en": ["States and Union Territories", "Official Languages", "Panchayati Raj institutions", "Tribal areas"], "hi": ["राज्य और केंद्र शासित प्रदेश", "राजभाषाएं", "पंचायती राज संस्थाएं", "आदिवासी क्षेत्र"] },
+    "answer": { "en": "Official Languages", "hi": "राजभाषाएं" }
+  },
+  {
+    "id": 387,
+    "subject": "BNS",
+    "question": { "en": "Under BNS, 'organized crime' is punishable with a minimum imprisonment of:", "hi": "BNS के तहत, 'संगठित अपराध' न्यूनतम कारावास से दंडनीय है:" },
+    "options": { "en": ["3 years", "5 years", "7 years", "10 years"], "hi": ["3 साल", "5 साल", "7 साल", "10 साल"] },
+    "answer": { "en": "5 years", "hi": "5 साल" }
+  },
+  {
+    "id": 388,
+    "subject": "BNSS",
+    "question": { "en": "The BNSS makes it mandatory to complete the trial in sexual offense cases within:", "hi": "BNSS यौन अपराध के मामलों में विचारण को पूरा करना अनिवार्य बनाता है:" },
+    "options": { "en": ["6 months", "1 year", "2 years", "3 years"], "hi": ["6 महीने", "1 साल", "2 साल", "3 साल"] },
+    "answer": { "en": "2 years", "hi": "2 साल" }
+  },
+  {
+    "id": 389,
+    "subject": "BSA",
+    "question": { "en": "The BSA provides for the admissibility of an electronic record without a certificate if:", "hi": "BSA एक इलेक्ट्रॉनिक रिकॉर्ड की स्वीकार्यता के लिए बिना प्रमाण पत्र के प्रावधान करता है यदि:" },
+    "options": { "en": ["It is a printout", "It is from a primary source", "The device producing it is considered reliable", "It is submitted by the police"], "hi": ["यह एक प्रिंटआउट है", "यह एक प्राथमिक स्रोत से है", "इसे उत्पन्न करने वाले उपकरण को विश्वसनीय माना जाता है", "यह पुलिस द्वारा प्रस्तुत किया गया है"] },
+    "answer": { "en": "The device producing it is considered reliable", "hi": "इसे उत्पन्न करने वाले उपकरण को विश्वसनीय माना जाता है" }
+  },
+  {
+    "id": 390,
+    "subject": "Evidence Act",
+    "question": { "en": "What is a 'conclusive proof'?", "hi": "'निश्चायक सबूत' क्या है?" },
+    "options": { "en": ["A proof that can be rebutted", "A proof where the court shall not allow evidence to be given for the purpose of disproving it", "A proof based on presumption", "A proof based on an admission"], "hi": ["एक सबूत जिसका खंडन किया जा सकता है", "एक सबूत जहां अदालत इसे अस्वीकृत करने के उद्देश्य से साक्ष्य देने की अनुमति नहीं देगी", "उपधारणा पर आधारित एक सबूत", "एक स्वीकृति पर आधारित एक सबूत"] },
+    "answer": { "en": "A proof where the court shall not allow evidence to be given for the purpose of disproving it", "hi": "एक सबूत जहां अदालत इसे अस्वीकृत करने के उद्देश्य से साक्ष्य देने की अनुमति नहीं देगी" }
+  },
+  {
+    "id": 391,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is 'abatement' of a suit?", "hi": "एक वाद का 'उपशमन' क्या है?" },
+    "options": { "en": ["The end of a suit due to the death of a party and the right to sue not surviving", "The postponement of a suit", "The dismissal of a suit", "The transfer of a suit"], "hi": ["एक पक्ष की मृत्यु और वाद लाने के अधिकार के जीवित न रहने के कारण एक वाद का अंत", "एक वाद का स्थगन", "एक वाद का खारिज होना", "एक वाद का हस्तांतरण"] },
+    "answer": { "en": "The end of a suit due to the death of a party and the right to sue not surviving", "hi": "एक पक्ष की मृत्यु और वाद लाने के अधिकार के जीवित न रहने के कारण एक वाद का अंत" }
+  },
+  {
+    "id": 392,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is the purpose of 'cross-examination'?", "hi": "'प्रति-परीक्षा' का उद्देश्य क्या है?" },
+    "options": { "en": ["To support the witness's testimony", "To test the veracity of the witness and impeach his credit", "To re-examine the witness", "To record the witness's statement"], "hi": ["गवाह की गवाही का समर्थन करना", "गवाह की सत्यता का परीक्षण करना और उसकी विश्वसनीयता पर आक्षेप करना", "गवाह की पुनः जांच करना", "गवाह का बयान दर्ज करना"] },
+    "answer": { "en": "To test the veracity of the witness and impeach his credit", "hi": "गवाह की सत्यता का परीक्षण करना और उसकी विश्वसनीयता पर आक्षेप करना" }
+  },
+  {
+    "id": 393,
+    "subject": "Family Law",
+    "question": { "en": "The concept of 'irretrievable breakdown of marriage' is a ground for divorce under:", "hi": "'विवाह का अपूरणीय विघटन' की अवधारणा किसके तहत तलाक का एक आधार है:" },
+    "options": { "en": ["The Hindu Marriage Act, 1955", "The Special Marriage Act, 1954", "Not yet a statutory ground, but recognized by the Supreme Court", "The Indian Christian Marriage Act, 1872"], "hi": ["हिंदू विवाह अधिनियम, 1955", "विशेष विवाह अधिनियम, 1954", "अभी तक एक वैधानिक आधार नहीं है, लेकिन सर्वोच्च न्यायालय द्वारा मान्यता प्राप्त है", "भारतीय ईसाई विवाह अधिनियम, 1872"] },
+    "answer": { "en": "Not yet a statutory ground, but recognized by the Supreme Court", "hi": "अभी तक एक वैधानिक आधार नहीं है, लेकिन सर्वोच्च न्यायालय द्वारा मान्यता प्राप्त है" }
+  },
+  {
+    "id": 394,
+    "subject": "Law of Contract",
+    "question": { "en": "What is 'consideration' in a contract?", "hi": "एक संविदा में 'प्रतिफल' क्या है?" },
+    "options": { "en": ["The subject matter of the contract", "Something of value given by each party to the other", "The terms of the contract", "The signature of the parties"], "hi": ["संविदा की विषय वस्तु", "प्रत्येक पक्ष द्वारा दूसरे को दिया गया कुछ मूल्यवान", "संविदा की शर्तें", "पक्षों के हस्ताक्षर"] },
+    "answer": { "en": "Something of value given by each party to the other", "hi": "प्रत्येक पक्ष द्वारा दूसरे को दिया गया कुछ मूल्यवान" }
+  },
+  {
+    "id": 395,
+    "subject": "Law of Tort",
+    "question": { "en": "What is 'libel'?", "hi": "'अपलेख' क्या है?" },
+    "options": { "en": ["Spoken defamation", "Written or printed defamation", "A physical injury", "A breach of contract"], "hi": ["मौखिक मानहानि", "लिखित या मुद्रित मानहानि", "एक शारीरिक चोट", "एक संविदा का उल्लंघन"] },
+    "answer": { "en": "Written or printed defamation", "hi": "लिखित या मुद्रित मानहानि" }
+  },
+  {
+    "id": 396,
+    "subject": "Company Law",
+    "question": { "en": "The 'Articles of Association' of a company contain:", "hi": "एक कंपनी के 'अंतर्नियम' में शामिल हैं:" },
+    "options": { "en": ["The objects of the company", "The rules and regulations for the internal management of the company", "The names of the first directors", "The authorized share capital"], "hi": ["कंपनी के उद्देश्य", "कंपनी के आंतरिक प्रबंधन के लिए नियम और विनियम", "पहले निदेशकों के नाम", "अधिकृत शेयर पूंजी"] },
+    "answer": { "en": "The rules and regulations for the internal management of the company", "hi": "कंपनी के आंतरिक प्रबंधन के लिए नियम और विनियम" }
+  },
+  {
+    "id": 397,
+    "subject": "Intellectual Property Laws",
+    "question": { "en": "What is a 'trademark'?", "hi": "'ट्रेडमार्क' क्या है?" },
+    "options": { "en": ["An invention", "A sign capable of distinguishing the goods or services of one enterprise from those of other enterprises", "A literary work", "A new design"], "hi": ["एक आविष्कार", "एक चिह्न जो एक उद्यम के माल या सेवाओं को दूसरे उद्यमों से अलग करने में सक्षम है", "एक साहित्यिक कृति", "एक नया डिजाइन"] },
+    "answer": { "en": "A sign capable of distinguishing the goods or services of one enterprise from those of other enterprises", "hi": "एक चिह्न जो एक उद्यम के माल या सेवाओं को दूसरे उद्यमों से अलग करने में सक्षम है" }
+  },
+  {
+    "id": 398,
+    "subject": "Constitutional Law",
+    "question": { "en": "The 'Sarkaria Commission' was set up to review the relations between:", "hi": "'सरकारिया आयोग' किसके बीच संबंधों की समीक्षा के लिए स्थापित किया गया था:" },
+    "options": { "en": ["The President and the Prime Minister", "The Centre and the States", "The Legislature and the Judiciary", "The Election Commission and the Government"], "hi": ["राष्ट्रपति और प्रधानमंत्री", "केंद्र और राज्य", "विधायिका और न्यायपालिका", "चुनाव आयोग और सरकार"] },
+    "answer": { "en": "The Centre and the States", "hi": "केंद्र और राज्य" }
+  },
+  {
+    "id": 399,
+    "subject": "Indian Penal Code (IPC)",
+    "question": { "en": "What is 'grievous hurt'?", "hi": "'घोर उपहति' क्या है?" },
+    "options": { "en": ["Any hurt that causes pain", "Hurt that endangers life or causes severe bodily pain for 20 days", "A minor scratch", "A slap"], "hi": ["कोई भी चोट जो दर्द का कारण बनती है", "चोट जो जीवन को खतरे में डालती है या 20 दिनों के लिए गंभीर शारीरिक दर्द का कारण बनती है", "एक मामूली खरोंच", "एक थप्पड़"] },
+    "answer": { "en": "Hurt that endangers life or causes severe bodily pain for 20 days", "hi": "चोट जो जीवन को खतरे में डालती है या 20 दिनों के लिए गंभीर शारीरिक दर्द का कारण बनती है" }
+  },
+  {
+    "id": 400,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": { "en": "What is an 'inquest report'?", "hi": "'मृत्यु समीक्षा रिपोर्ट' क्या है?" },
+    "options": { "en": ["A report on the cause of death in cases of suspicious death", "A medical report", "A charge sheet", "A final judgment"], "hi": ["संदिग्ध मृत्यु के मामलों में मृत्यु के कारण पर एक रिपोर्ट", "एक चिकित्सा रिपोर्ट", "एक आरोप पत्र", "एक अंतिम निर्णय"] },
+    "answer": { "en": "A report on the cause of death in cases of suspicious death", "hi": "संदिग्ध मृत्यु के मामलों में मृत्यु के कारण पर एक रिपोर्ट" }
+  },
+  {
+    "id": 401,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": { "en": "What is a 'decree'?", "hi": "'डिक्री' क्या है?" },
+    "options": { "en": ["An interim order", "The formal expression of an adjudication which conclusively determines the rights of the parties", "A summons", "A written statement"], "hi": ["एक अंतरिम आदेश", "एक न्यायनिर्णयन की औपचारिक अभिव्यक्ति जो निर्णायक रूप से पक्षों के अधिकारों को निर्धारित करती है", "एक समन", "एक लिखित कथन"] },
+    "answer": { "en": "The formal expression of an adjudication which conclusively determines the rights of the parties", "hi": "एक न्यायनिर्णयन की औपचारिक अभिव्यक्ति जो निर्णायक रूप से पक्षों के अधिकारों को निर्धारित करती है" }
+  },
+  {
+    "id": 402,
+    "subject": "Evidence Act",
+    "question": { "en": "What is 'oral evidence'?", "hi": "'मौखिक साक्ष्य' क्या है?" },
+    "options": { "en": ["Any evidence in writing", "All statements which the court permits or requires to be made before it by witnesses", "A document", "An expert opinion"], "hi": ["लिखित में कोई भी साक्ष्य", "सभी बयान जिन्हें अदालत गवाहों द्वारा अपने समक्ष करने की अनुमति देती है या आवश्यकता होती है", "एक दस्तावेज़", "एक विशेषज्ञ की राय"] },
+    "answer": { "en": "All statements which the court permits or requires to be made before it by witnesses", "hi": "सभी बयान जिन्हें अदालत गवाहों द्वारा अपने समक्ष करने की अनुमति देती है या आवश्यकता होती है" }
+  },
+  {
+    "id": 403,
+    "subject": "Family Law",
+    "question": { "en": "What is a 'waqf' in Muslim law?", "hi": "मुस्लिम कानून में 'वक्फ' क्या है?" },
+    "options": { "en": ["A gift", "A will", "A permanent dedication of property for religious or charitable purposes", "A marriage"], "hi": ["एक उपहार", "एक वसीयत", "धार्मिक या धर्मार्थ उद्देश्यों के लिए संपत्ति का एक स्थायी समर्पण", "एक विवाह"] },
+    "answer": { "en": "A permanent dedication of property for religious or charitable purposes", "hi": "धार्मिक या धर्मार्थ उद्देश्यों के लिए संपत्ति का एक स्थायी समर्पण" }
   }
 ]
