@@ -7511,5 +7511,709 @@
       "hi": ["सभी न्यायाधीश और मजिस्ट्रेट", "साक्ष्य लेने के लिए कानूनी रूप से अधिकृत सभी व्यक्ति", "केवल उच्च न्यायालय और सर्वोच्च न्यायालय", "अधिकरण और मध्यस्थ"]
     },
     "answer": { "en": "All persons legally authorised to take evidence", "hi": "साक्ष्य लेने के लिए कानूनी रूप से अधिकृत सभी व्यक्ति" }
+  },
+    {
+    "id": 1028,
+    "subject": "Constitutional Law",
+    "question": {
+      "en": "The power of judicial review allows the judiciary to do what?",
+      "hi": "न्यायिक समीक्षा की शक्ति न्यायपालिका को क्या करने की अनुमति देती है?"
+    },
+    "options": {
+      "en": ["Create new laws", "Review the constitutionality of laws and executive actions", "Appoint government officials", "Conduct elections"],
+      "hi": ["नए कानून बनाना", "कानूनों और कार्यकारी कार्यों की संवैधानिकता की समीक्षा करना", "सरकारी अधिकारियों की नियुक्ति करना", "चुनाव कराना"]
+    },
+    "answer": {
+      "en": "Review the constitutionality of laws and executive actions",
+      "hi": "कानूनों और कार्यकारी कार्यों की संवैधानिकता की समीक्षा करना"
+    }
+  },
+  {
+    "id": 1029,
+    "subject": "BNS",
+    "question": {
+      "en": "The Bharatiya Nyaya Sanhita (BNS) has introduced a new specific offence for 'snatching'. What is the punishment for it?",
+      "hi": "भारतीय न्याय संहिता (BNS) ने 'छीना-झपटी' के लिए एक नया विशिष्ट अपराध पेश किया है। इसके लिए क्या सजा है?"
+    },
+    "options": {
+      "en": ["Imprisonment up to one year", "Imprisonment up to three years, and fine", "Imprisonment up to five years", "Fine only"],
+      "hi": ["एक वर्ष तक का कारावास", "तीन वर्ष तक का कारावास और जुर्माना", "पांच वर्ष तक का कारावास", "केवल जुर्माना"]
+    },
+    "answer": {
+      "en": "Imprisonment up to three years, and fine",
+      "hi": "तीन वर्ष तक का कारावास और जुर्माना"
+    }
+  },
+  {
+    "id": 1030,
+    "subject": "Law of Tort",
+    "question": {
+      "en": "The maxim 'damnum sine injuria' means:",
+      "hi": "सूत्र 'डैमनम साइन इंजुरिया' का अर्थ है:"
+    },
+    "options": {
+      "en": ["Damage without legal injury", "Legal injury without damage", "Damage with legal injury", "No damage, no injury"],
+      "hi": ["कानूनी चोट के बिना क्षति", "क्षति के बिना कानूनी चोट", "कानूनी चोट के साथ क्षति", "कोई क्षति नहीं, कोई चोट नहीं"]
+    },
+    "answer": {
+      "en": "Damage without legal injury",
+      "hi": "कानूनी चोट के बिना क्षति"
+    }
+  },
+  {
+    "id": 1031,
+    "subject": "BNSS",
+    "question": {
+      "en": "Under the BNSS, what is the new time limit for the court to frame charges after the first hearing?",
+      "hi": "बीएनएसएस के तहत, पहली सुनवाई के बाद अदालत द्वारा आरोप तय करने की नई समय सीमा क्या है?"
+    },
+    "options": {
+      "en": ["30 days", "45 days", "60 days", "90 days"],
+      "hi": ["30 दिन", "45 दिन", "60 दिन", "90 दिन"]
+    },
+    "answer": {
+      "en": "60 days",
+      "hi": "60 दिन"
+    }
+  },
+  {
+    "id": 1032,
+    "subject": "BSA",
+    "question": {
+      "en": "The Bharatiya Sakshya Adhiniyam (BSA) explicitly states that evidence given by which of the following is admissible if they can understand questions and give rational answers?",
+      "hi": "भारतीय साक्ष्य अधिनियम (BSA) स्पष्ट रूप से कहता है कि निम्नलिखित में से किसके द्वारा दिया गया साक्ष्य स्वीकार्य है यदि वे प्रश्नों को समझ सकते हैं और तर्कसंगत उत्तर दे सकते हैं?"
+    },
+    "options": {
+      "en": ["An intoxicated person", "A lunatic during their lucid interval", "A child of tender years", "All of the above"],
+      "hi": ["एक नशे में धुत व्यक्ति", "एक पागल व्यक्ति अपने स्वस्थ अंतराल के दौरान", "कम उम्र का बच्चा", "उपरोक्त सभी"]
+    },
+    "answer": {
+      "en": "All of the above",
+      "hi": "उपरोक्त सभी"
+    }
+  },
+  {
+    "id": 1033,
+    "subject": "Law of Contract",
+    "question": {
+      "en": "What is a 'voidable' contract?",
+      "hi": "'शून्यकरणीय' संविदा क्या है?"
+    },
+    "options": {
+      "en": ["An agreement not enforceable by law", "An agreement enforceable at the option of one or more parties, but not at the option of the other or others", "An agreement which is illegal", "An agreement that is impossible to perform"],
+      "hi": ["कानून द्वारा अप्रवर्तनीय एक करार", "एक या अधिक पक्षों के विकल्प पर प्रवर्तनीय, लेकिन दूसरे या दूसरों के विकल्प पर नहीं", "एक अवैध करार", "एक करार जिसका पालन करना असंभव है"]
+    },
+    "answer": {
+      "en": "An agreement enforceable at the option of one or more parties, but not at the option of the other or others",
+      "hi": "एक या अधिक पक्षों के विकल्प पर प्रवर्तनीय, लेकिन दूसरे या दूसरों के विकल्प पर नहीं"
+    }
+  },
+  {
+    "id": 1034,
+    "subject": "Milestone Rulings",
+    "question": {
+      "en": "The Supreme Court recognized 'Right to be Forgotten' as a part of the Right to Privacy in which case?",
+      "hi": "सर्वोच्च न्यायालय ने किस मामले में 'भूल जाने के अधिकार' को निजता के अधिकार का एक हिस्सा माना?"
+    },
+    "options": {
+      "en": ["Justice K.S. Puttaswamy (Retd.) v. Union of India", "Navtej Singh Johar v. Union of India", "Joseph Shine v. Union of India", "Shreya Singhal v. Union of India"],
+      "hi": ["न्यायमूर्ति के.एस. पुट्टस्वामी (सेवानिवृत्त) बनाम भारत संघ", "नवतेज सिंह जौहर बनाम भारत संघ", "जोसेफ शाइन बनाम भारत संघ", "श्रेया सिंघल बनाम भारत संघ"]
+    },
+    "answer": {
+      "en": "Justice K.S. Puttaswamy (Retd.) v. Union of India",
+      "hi": "न्यायमूर्ति के.एस. पुट्टस्वामी (सेवानिवृत्त) बनाम भारत संघ"
+    }
+  },
+  {
+    "id": 1035,
+    "subject": "Company Law",
+    "question": {
+      "en": "Which document contains the rules and regulations for the internal management of a company?",
+      "hi": "किस दस्तावेज़ में कंपनी के आंतरिक प्रबंधन के लिए नियम और विनियम होते हैं?"
+    },
+    "options": {
+      "en": ["Memorandum of Association", "Prospectus", "Articles of Association", "Certificate of Incorporation"],
+      "hi": ["संस्था के बहिर्नियम (एमओए)", "विवरणिका", "संस्था के अंतर्नियम (एओए)", "निगमन का प्रमाण पत्र"]
+    },
+    "answer": {
+      "en": "Articles of Association",
+      "hi": "संस्था के अंतर्नियम (एओए)"
+    }
+  },
+  {
+    "id": 1036,
+    "subject": "Environmental Law",
+    "question": {
+      "en": "The 'Precautionary Principle' in environmental law implies:",
+      "hi": "पर्यावरण कानून में ' precautionary principle ' का तात्पर्य है:"
+    },
+    "options": {
+      "en": ["The polluter must pay for the damage caused", "Lack of scientific certainty is no reason to postpone measures to prevent environmental degradation", "The state must protect the environment", "Development must be sustainable"],
+      "hi": ["प्रदूषक को हुए नुकसान के लिए भुगतान करना होगा", "वैज्ञानिक निश्चितता की कमी पर्यावरणीय गिरावट को रोकने के उपायों को स्थगित करने का कोई कारण नहीं है", "राज्य को पर्यावरण की रक्षा करनी चाहिए", "विकास टिकाऊ होना चाहिए"]
+    },
+    "answer": {
+      "en": "Lack of scientific certainty is no reason to postpone measures to prevent environmental degradation",
+      "hi": "वैज्ञानिक निश्चितता की कमी पर्यावरणीय गिरावट को रोकने के उपायों को स्थगित करने का कोई कारण नहीं है"
+    }
+  },
+  {
+    "id": 1037,
+    "subject": "Indian Penal Code (IPC)",
+    "question": {
+      "en": "What is the key difference between 'culpable homicide' and 'murder'?",
+      "hi": "'आपराधिक मानव वध' और 'हत्या' के बीच मुख्य अंतर क्या है?"
+    },
+    "options": {
+      "en": ["The number of people involved", "The weapon used", "The degree of intent and knowledge", "The place of the crime"],
+      "hi": ["शामिल लोगों की संख्या", "इस्तेमाल किया गया हथियार", "इरादे और ज्ञान की डिग्री", "अपराध का स्थान"]
+    },
+    "answer": {
+      "en": "The degree of intent and knowledge",
+      "hi": "इरादे और ज्ञान की डिग्री"
+    }
+  },
+  {
+    "id": 1038,
+    "subject": "Constitutional Law",
+    "question": {
+      "en": "Which schedule of the Indian Constitution deals with the allocation of powers between the Union and the States?",
+      "hi": "भारतीय संविधान की कौन सी अनुसूची संघ और राज्यों के बीच शक्तियों के आवंटन से संबंधित है?"
+    },
+    "options": {
+      "en": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
+      "hi": ["पांचवीं अनुसूची", "छठी अनुसूची", "सातवीं अनुसूची", "आठवीं अनुसूची"]
+    },
+    "answer": {
+      "en": "Seventh Schedule",
+      "hi": "सातवीं अनुसूची"
+    }
+  },
+  {
+    "id": 1039,
+    "subject": "Cyber Law",
+    "question": {
+      "en": "What is a 'Digital Signature Certificate (DSC)' used for?",
+      "hi": "'डिजिटल हस्ताक्षर प्रमाणपत्र (डीएससी)' का उपयोग किस लिए किया जाता है?"
+    },
+    "options": {
+      "en": ["To browse the internet", "To prove the identity of a person in electronic transactions", "To store data securely", "To create a website"],
+      "hi": ["इंटरनेट ब्राउज़ करने के लिए", "इलेक्ट्रॉनिक लेनदेन में किसी व्यक्ति की पहचान साबित करने के लिए", "डेटा को सुरक्षित रूप से संग्रहीत करने के लिए", "एक वेबसाइट बनाने के लिए"]
+    },
+    "answer": {
+      "en": "To prove the identity of a person in electronic transactions",
+      "hi": "इलेक्ट्रॉनिक लेनदेन में किसी व्यक्ति की पहचान साबित करने के लिए"
+    }
+  },
+  {
+    "id": 1040,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": {
+      "en": "The doctrine of 'res sub judice' is intended to:",
+      "hi": "'रेस सब-ज्यूडिस' के सिद्धांत का उद्देश्य है:"
+    },
+    "options": {
+      "en": ["Prevent a matter already judged from being re-litigated", "Prevent two parallel proceedings on the same matter", "Allow an appeal to a higher court", "Execute a decree"],
+      "hi": ["पहले से तय किए गए मामले को फिर से मुकदमेबाजी से रोकना", "एक ही मामले पर दो समानांतर कार्यवाहियों को रोकना", "उच्च न्यायालय में अपील की अनुमति देना", "एक डिक्री का निष्पादन करना"]
+    },
+    "answer": {
+      "en": "Prevent two parallel proceedings on the same matter",
+      "hi": "एक ही मामले पर दो समानांतर कार्यवाहियों को रोकना"
+    }
+  },
+  {
+    "id": 1041,
+    "subject": "Labour & Industrial Laws",
+    "question": {
+      "en": "What is a 'strike' under the Industrial Disputes Act, 1947?",
+      "hi": "औद्योगिक विवाद अधिनियम, 1947 के तहत 'हड़ताल' क्या है?"
+    },
+    "options": {
+      "en": ["Closure of the factory by the employer", "A protest march by workers", "Cessation of work by a body of persons employed in any industry acting in combination", "A demand for higher wages"],
+      "hi": ["नियोक्ता द्वारा कारखाने को बंद करना", "श्रमिकों द्वारा एक विरोध मार्च", "किसी भी उद्योग में नियोजित व्यक्तियों के एक निकाय द्वारा संयोजन में कार्य करना बंद करना", "उच्च मजदूरी की मांग"]
+    },
+    "answer": {
+      "en": "Cessation of work by a body of persons employed in any industry acting in combination",
+      "hi": "किसी भी उद्योग में नियोजित व्यक्तियों के एक निकाय द्वारा संयोजन में कार्य करना बंद करना"
+    }
+  },
+  {
+    "id": 1042,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": {
+      "en": "What is the main purpose of Section 164 of CrPC?",
+      "hi": "सीआरपीसी की धारा 164 का मुख्य उद्देश्य क्या है?"
+    },
+    "options": {
+      "en": ["To record FIR", "To arrest a person", "To record confessions and statements before a Magistrate", "To frame charges"],
+      "hi": ["एफआईआर दर्ज करना", "एक व्यक्ति को गिरफ्तार करना", "मजिस्ट्रेट के समक्ष इकबालिया बयान और बयान दर्ज करना", "आरोप तय करना"]
+    },
+    "answer": {
+      "en": "To record confessions and statements before a Magistrate",
+      "hi": "मजिस्ट्रेट के समक्ष इकबालिया बयान और बयान दर्ज करना"
+    }
+  },
+  {
+    "id": 1043,
+    "subject": "Family Law",
+    "question": {
+      "en": "The concept of 'Karta' is central to which system of law?",
+      "hi": "'कर्ता' की अवधारणा किस कानून प्रणाली के लिए केंद्रीय है?"
+    },
+    "options": {
+      "en": ["Muslim Law", "Christian Law", "Hindu Joint Family Law", "Parsi Law"],
+      "hi": ["मुस्लिम कानून", "ईसाई कानून", "हिंदू संयुक्त परिवार कानून", "पारसी कानून"]
+    },
+    "answer": {
+      "en": "Hindu Joint Family Law",
+      "hi": "हिंदू संयुक्त परिवार कानून"
+    }
+  },
+  {
+    "id": 1044,
+    "subject": "BNS",
+    "question": {
+      "en": "The BNS, for the first time, defines and penalizes 'Organized Crime'. This concept was earlier found in:",
+      "hi": "बीएनएस ने पहली बार 'संगठित अपराध' को परिभाषित और दंडित किया है। यह अवधारणा पहले किसमें पाई जाती थी:"
+    },
+    "options": {
+      "en": ["Indian Penal Code", "State laws like MCOCA and GUJCOCA", "The Constitution of India", "CrPC"],
+      "hi": ["भारतीय दंड संहिता", "मकोका और गुजकोका जैसे राज्य के कानून", "भारत का संविधान", "सीआरपीसी"]
+    },
+    "answer": {
+      "en": "State laws like MCOCA and GUJCOCA",
+      "hi": "मकोका और गुजकोका जैसे राज्य के कानून"
+    }
+  },
+  {
+    "id": 1045,
+    "subject": "Evidence Act",
+    "question": {
+      "en": "The principle that 'facts admitted need not be proved' is contained in which section of the Indian Evidence Act?",
+      "hi": "भारतीय साक्ष्य अधिनियम की किस धारा में यह सिद्धांत निहित है कि 'स्वीकृत तथ्यों को साबित करने की आवश्यकता नहीं है'?"
+    },
+    "options": {
+      "en": ["Section 17", "Section 21", "Section 58", "Section 60"],
+      "hi": ["धारा 17", "धारा 21", "धारा 58", "धारा 60"]
+    },
+    "answer": {
+      "en": "Section 58",
+      "hi": "धारा 58"
+    }
+  },
+  {
+    "id": 1046,
+    "subject": "Taxation Law",
+    "question": {
+      "en": "What does the term 'assessment year' mean in income tax law?",
+      "hi": "आयकर कानून में 'निर्धारण वर्ष' शब्द का क्या अर्थ है?"
+    },
+    "options": {
+      "en": ["The year in which income is earned", "The year in which income tax is paid", "The year following the financial year, in which income is assessed and taxed", "The calendar year"],
+      "hi": ["वह वर्ष जिसमें आय अर्जित की जाती है", "वह वर्ष जिसमें आयकर का भुगतान किया जाता है", "वित्तीय वर्ष के बाद का वर्ष, जिसमें आय का निर्धारण और कर लगाया जाता है", "कैलेंडर वर्ष"]
+    },
+    "answer": {
+      "en": "The year following the financial year, in which income is assessed and taxed",
+      "hi": "वित्तीय वर्ष के बाद का वर्ष, जिसमें आय का निर्धारण और कर लगाया जाता है"
+    }
+  },
+  {
+    "id": 1047,
+    "subject": "Alternative Dispute Resolution",
+    "question": {
+      "en": "An arbitral award made under the Arbitration and Conciliation Act, 1996 has the status of a:",
+      "hi": "मध्यस्थता और सुलह अधिनियम, 1996 के तहत दिया गया एक मध्यस्थता पंचाट का दर्जा एक:"
+    },
+    "options": {
+      "en": ["Recommendation", "Suggestion", "Decree of a civil court", "Negotiable instrument"],
+      "hi": ["सिफारिश", "सुझाव", "दीवानी अदालत की डिक्री", "परक्राम्य लिखत"]
+    },
+    "answer": {
+      "en": "Decree of a civil court",
+      "hi": "दीवानी अदालत की डिक्री"
+    }
+  },
+  {
+    "id": 1048,
+    "subject": "BNSS",
+    "question": {
+      "en": "The BNSS has introduced a 'Zero FIR' provision. What does this mean?",
+      "hi": "बीएनएसएस ने 'शून्य एफआईआर' का प्रावधान पेश किया है। इसका क्या मतलब है?"
+    },
+    "options": {
+      "en": ["An FIR with no details", "An FIR that is not registered", "An FIR can be filed in any police station, irrespective of jurisdiction", "An FIR filed for a minor offense"],
+      "hi": ["बिना किसी विवरण के एफआईआर", "एक एफआईआर जो पंजीकृत नहीं है", "क्षेत्राधिकार की परवाह किए बिना किसी भी पुलिस स्टेशन में एफआईआर दर्ज की जा सकती है", "एक मामूली अपराध के लिए दर्ज की गई एफआईआर"]
+    },
+    "answer": {
+      "en": "An FIR can be filed in any police station, irrespective of jurisdiction",
+      "hi": "क्षेत्राधिकार की परवाह किए बिना किसी भी पुलिस स्टेशन में एफआईआर दर्ज की जा सकती है"
+    }
+  },
+  {
+    "id": 1049,
+    "subject": "Public Interest Litigation (PIL)",
+    "question": {
+      "en": "A PIL can be filed for the enforcement of:",
+      "hi": "एक जनहित याचिका किसके प्रवर्तन के लिए दायर की जा सकती है:"
+    },
+    "options": {
+      "en": ["Private rights only", "Public duties and rights of the disadvantaged", "Contractual rights", "Property rights"],
+      "hi": ["केवल निजी अधिकार", "सार्वजनिक कर्तव्य और वंचितों के अधिकार", "संविदात्मक अधिकार", "संपत्ति के अधिकार"]
+    },
+    "answer": {
+      "en": "Public duties and rights of the disadvantaged",
+      "hi": "सार्वजनिक कर्तव्य और वंचितों के अधिकार"
+    }
+  },
+  {
+    "id": 1050,
+    "subject": "Intellectual Property Laws",
+    "question": {
+      "en": "What is the term of copyright protection for a literary work in India?",
+      "hi": "भारत में एक साहित्यिक कृति के लिए कॉपीराइट संरक्षण की अवधि क्या है?"
+    },
+    "options": {
+      "en": ["50 years", "60 years", "Author's lifetime + 60 years", "100 years"],
+      "hi": ["50 वर्ष", "60 वर्ष", "लेखक का जीवनकाल + 60 वर्ष", "100 वर्ष"]
+    },
+    "answer": {
+      "en": "Author's lifetime + 60 years",
+      "hi": "लेखक का जीवनकाल + 60 वर्ष"
+    }
+  },
+  {
+    "id": 1051,
+    "subject": "Constitutional Law",
+    "question": {
+      "en": "Who has the power to promulgate ordinances when the Parliament is not in session?",
+      "hi": "जब संसद सत्र में नहीं होती है तो अध्यादेश जारी करने की शक्ति किसके पास होती है?"
+    },
+    "options": {
+      "en": ["The Prime Minister", "The President", "The Chief Justice of India", "The Speaker of Lok Sabha"],
+      "hi": ["प्रधानमंत्री", "राष्ट्रपति", "भारत के मुख्य न्यायाधीश", "लोकसभा अध्यक्ष"]
+    },
+    "answer": {
+      "en": "The President",
+      "hi": "राष्ट्रपति"
+    }
+  },
+  {
+    "id": 1052,
+    "subject": "Law of Contract",
+    "question": {
+      "en": "An agreement in restraint of legal proceedings is:",
+      "hi": "कानूनी कार्यवाही के अवरोध में एक करार है:"
+    },
+    "options": {
+      "en": ["Valid", "Voidable", "Void", "Enforceable"],
+      "hi": ["वैध", "शून्यकरणीय", "शून्य", "प्रवर्तनीय"]
+    },
+    "answer": {
+      "en": "Void",
+      "hi": "शून्य"
+    }
+  },
+  {
+    "id": 1053,
+    "subject": "Law of Tort",
+    "question": {
+      "en": "What is 'libel'?",
+      "hi": "'अपलेख' क्या है?"
+    },
+    "options": {
+      "en": ["Defamation in a transient form (e.g., spoken words)", "Defamation in a permanent form (e.g., written or printed)", "A type of negligence", "A form of trespass"],
+      "hi": ["एक क्षणिक रूप में मानहानि (जैसे, बोले गए शब्द)", "एक स्थायी रूप में मानहानि (जैसे, लिखित या मुद्रित)", "एक प्रकार की लापरवाही", "एक प्रकार का अतिचार"]
+    },
+    "answer": {
+      "en": "Defamation in a permanent form (e.g., written or printed)",
+      "hi": "एक स्थायी रूप में मानहानि (जैसे, लिखित या मुद्रित)"
+    }
+  },
+  {
+    "id": 1054,
+    "subject": "BSA",
+    "question": {
+      "en": "The certificate required for the admissibility of electronic evidence under the BSA must state that:",
+      "hi": "बीएसए के तहत इलेक्ट्रॉनिक साक्ष्य की स्वीकार्यता के लिए आवश्यक प्रमाण पत्र में यह बताना होगा कि:"
+    },
+    "options": {
+      "en": ["The information was produced by a computer that was operating properly", "The electronic record is a true copy of the original", "The data has not been tampered with", "All of the above"],
+      "hi": ["जानकारी एक ऐसे कंप्यूटर द्वारा तैयार की गई थी जो ठीक से काम कर रहा था", "इलेक्ट्रॉनिक रिकॉर्ड मूल की एक सच्ची प्रति है", "डेटा के साथ छेड़छाड़ नहीं की गई है", "उपरोक्त सभी"]
+    },
+    "answer": {
+      "en": "All of the above",
+      "hi": "उपरोक्त सभी"
+    }
+  },
+  {
+    "id": 1055,
+    "subject": "Professional Ethics",
+    "question": {
+      "en": "An advocate is prohibited from advertising their services. This rule is framed under:",
+      "hi": "एक वकील को अपनी सेवाओं का विज्ञापन करने से प्रतिबंधित किया गया है। यह नियम किसके तहत बनाया गया है:"
+    },
+    "options": {
+      "en": ["The Indian Penal Code", "The Constitution of India", "The Bar Council of India Rules", "The Code of Civil Procedure"],
+      "hi": ["भारतीय दंड संहिता", "भारत का संविधान", "बार काउंसिल ऑफ इंडिया के नियम", "नागरिक प्रक्रिया संहिता"]
+    },
+    "answer": {
+      "en": "The Bar Council of India Rules",
+      "hi": "बार काउंसिल ऑफ इंडिया के नियम"
+    }
+  },
+  {
+    "id": 1056,
+    "subject": "Land Acquisition Act",
+    "question": {
+      "en": "What does 'Urgency Clause' under the Land Acquisition Act, 2013, allow the government to do?",
+      "hi": "भूमि अधिग्रहण अधिनियम, 2013 के तहत 'तत्काल खंड' सरकार को क्या करने की अनुमति देता है?"
+    },
+    "options": {
+      "en": ["Pay less compensation", "Acquire land without any compensation", "Bypass the Social Impact Assessment and acquire land quickly for national security or emergencies", "Acquire only agricultural land"],
+      "hi": ["कम मुआवजा देना", "बिना किसी मुआवजे के भूमि का अधिग्रहण करना", "सामाजिक प्रभाव मूल्यांकन को दरकिनार करना और राष्ट्रीय सुरक्षा या आपात स्थिति के लिए जल्दी से भूमि का अधिग्रहण करना", "केवल कृषि भूमि का अधिग्रहण करना"]
+    },
+    "answer": {
+      "en": "Bypass the Social Impact Assessment and acquire land quickly for national security or emergencies",
+      "hi": "सामाजिक प्रभाव मूल्यांकन को दरकिनार करना और राष्ट्रीय सुरक्षा या आपात स्थिति के लिए जल्दी से भूमि का अधिग्रहण करना"
+    }
+  },
+  {
+    "id": 1057,
+    "subject": "Milestone Rulings",
+    "question": {
+      "en": "In the case of 'Lalita Kumari v. Govt. of U.P.', the Supreme Court held that:",
+      "hi": "'ललिता कुमारी बनाम यू.पी. सरकार' के मामले में, सर्वोच्च न्यायालय ने माना कि:"
+    },
+    "options": {
+      "en": ["Registration of FIR is mandatory if the information discloses a cognizable offence", "A preliminary inquiry is always required before registering an FIR", "FIR can only be filed by the victim", "Police have absolute discretion in registering an FIR"],
+      "hi": ["यदि सूचना एक संज्ञेय अपराध का खुलासा करती है तो एफआईआर का पंजीकरण अनिवार्य है", "एफआईआर दर्ज करने से पहले हमेशा एक प्रारंभिक जांच की आवश्यकता होती है", "एफआईआर केवल पीड़ित द्वारा दायर की जा सकती है", "एफआईआर दर्ज करने में पुलिस के पास पूर्ण विवेक है"]
+    },
+    "answer": {
+      "en": "Registration of FIR is mandatory if the information discloses a cognizable offence",
+      "hi": "यदि सूचना एक संज्ञेय अपराध का खुलासा करती है तो एफआईआर का पंजीकरण अनिवार्य है"
+    }
+  },
+  {
+    "id": 1058,
+    "subject": "Indian Penal Code (IPC)",
+    "question": {
+      "en": "What is the minimum number of persons required to constitute an 'unlawful assembly'?",
+      "hi": "'विधि विरुद्ध जमाव' का गठन करने के लिए न्यूनतम कितने व्यक्तियों की आवश्यकता होती है?"
+    },
+    "options": {
+      "en": ["Two", "Three", "Four", "Five"],
+      "hi": ["दो", "तीन", "चार", "पांच"]
+    },
+    "answer": {
+      "en": "Five",
+      "hi": "पांच"
+    }
+  },
+  {
+    "id": 1059,
+    "subject": "Constitutional Law",
+    "question": {
+      "en": "The concept of 'Public Interest Litigation' (PIL) originated in which country?",
+      "hi": "'जनहित याचिका' (PIL) की अवधारणा किस देश में उत्पन्न हुई?"
+    },
+    "options": {
+      "en": ["India", "United Kingdom", "United States of America", "Australia"],
+      "hi": ["भारत", "यूनाइटेड किंगडम", "संयुक्त राज्य अमेरिका", "ऑस्ट्रेलिया"]
+    },
+    "answer": {
+      "en": "United States of America",
+      "hi": "संयुक्त राज्य अमेरिका"
+    }
+  },
+  {
+    "id": 1060,
+    "subject": "Code of Civil Procedure (CPC)",
+    "question": {
+      "en": "What is a 'foreign judgment' under the CPC?",
+      "hi": "सीपीसी के तहत 'विदेशी निर्णय' क्या है?"
+    },
+    "options": {
+      "en": ["A judgment given by a court outside India", "A judgment given in a foreign language", "A judgment against a foreign national", "A judgment that is not final"],
+      "hi": ["भारत के बाहर किसी अदालत द्वारा दिया गया निर्णय", "एक विदेशी भाषा में दिया गया निर्णय", "एक विदेशी नागरिक के खिलाफ दिया गया निर्णय", "एक निर्णय जो अंतिम नहीं है"]
+    },
+    "answer": {
+      "en": "A judgment given by a court outside India",
+      "hi": "भारत के बाहर किसी अदालत द्वारा दिया गया निर्णय"
+    }
+  },
+  {
+    "id": 1061,
+    "subject": "Evidence Act",
+    "question": {
+      "en": "The principle of 'Estoppel' is a rule of:",
+      "hi": "'विबंधन' का सिद्धांत एक नियम है:"
+    },
+    "options": {
+      "en": ["Evidence", "Procedure", "Substantive Law", "Contract"],
+      "hi": ["साक्ष्य", "प्रक्रिया", "मूल विधि", "संविदा"]
+    },
+    "answer": {
+      "en": "Evidence",
+      "hi": "साक्ष्य"
+    }
+  },
+  {
+    "id": 1062,
+    "subject": "Criminal Procedure Code (CrPC)",
+    "question": {
+      "en": "Which court has the power to take cognizance of an offence?",
+      "hi": "किस अदालत को किसी अपराध का संज्ञान लेने की शक्ति है?"
+    },
+    "options": {
+      "en": ["High Court only", "Court of Session only", "Magistrate of the first class", "Supreme Court only"],
+      "hi": ["केवल उच्च न्यायालय", "केवल सत्र न्यायालय", "प्रथम श्रेणी के मजिस्ट्रेट", "केवल सर्वोच्च न्यायालय"]
+    },
+    "answer": {
+      "en": "Magistrate of the first class",
+      "hi": "प्रथम श्रेणी के मजिस्ट्रेट"
+    }
+  },
+  {
+    "id": 1063,
+    "subject": "BNS",
+    "question": {
+      "en": "The BNS has decriminalized 'adultery'. This was previously an offense under which section of the IPC?",
+      "hi": "बीएनएस ने 'व्यभिचार' को अपराध की श्रेणी से बाहर कर दिया है। यह पहले आईपीसी की किस धारा के तहत एक अपराध था?"
+    },
+    "options": {
+      "en": ["Section 377", "Section 497", "Section 498A", "Section 304B"],
+      "hi": ["धारा 377", "धारा 497", "धारा 498A", "धारा 304B"]
+    },
+    "answer": {
+      "en": "Section 497",
+      "hi": "धारा 497"
+    }
+  },
+  {
+    "id": 1064,
+    "subject": "Administrative Law",
+    "question": {
+      "en": "What is 'delegated legislation'?",
+      "hi": "'प्रत्यायोजित विधान' क्या है?"
+    },
+    "options": {
+      "en": ["Law made by the Judiciary", "Law made by the Parliament", "Law made by the executive under the authority of a primary Act of Parliament", "Law made by local bodies"],
+      "hi": ["न्यायपालिका द्वारा बनाया गया कानून", "संसद द्वारा बनाया गया कानून", "संसद के एक प्राथमिक अधिनियम के अधिकार के तहत कार्यपालिका द्वारा बनाया गया कानून", "स्थानीय निकायों द्वारा बनाया गया कानून"]
+    },
+    "answer": {
+      "en": "Law made by the executive under the authority of a primary Act of Parliament",
+      "hi": "संसद के एक प्राथमिक अधिनियम के अधिकार के तहत कार्यपालिका द्वारा बनाया गया कानून"
+    }
+  },
+  {
+    "id": 1065,
+    "subject": "BNSS",
+    "question": {
+      "en": "Under BNSS, the concept of 'deemed sanction' for prosecution of public servants means:",
+      "hi": "बीएनएसएस के तहत, लोक सेवकों के अभियोजन के लिए 'मानित मंजूरी' की अवधारणा का अर्थ है:"
+    },
+    "options": {
+      "en": ["Sanction is always required", "If the government does not respond within 120 days, sanction is considered granted", "Sanction is never required", "Only the President can grant sanction"],
+      "hi": ["मंजूरी हमेशा आवश्यक है", "यदि सरकार 120 दिनों के भीतर जवाब नहीं देती है, तो मंजूरी प्रदान की गई मानी जाती है", "मंजूरी कभी भी आवश्यक नहीं है", "केवल राष्ट्रपति ही मंजूरी दे सकते हैं"]
+    },
+    "answer": {
+      "en": "If the government does not respond within 120 days, sanction is considered granted",
+      "hi": "यदि सरकार 120 दिनों के भीतर जवाब नहीं देती है, तो मंजूरी प्रदान की गई मानी जाती है"
+    }
+  },
+  {
+    "id": 1066,
+    "subject": "Company Law",
+    "question": {
+      "en": "The 'National Company Law Tribunal' (NCLT) has replaced the:",
+      "hi": "'राष्ट्रीय कंपनी विधि अधिकरण' (एनसीएलटी) ने किसका स्थान लिया है:"
+    },
+    "options": {
+      "en": ["High Court's jurisdiction on company matters", "Company Law Board (CLB)", "Both a and b", "Supreme Court"],
+      "hi": ["कंपनी मामलों पर उच्च न्यायालय का अधिकार क्षेत्र", "कंपनी विधि बोर्ड (सीएलबी)", "a और b दोनों", "सर्वोच्च न्यायालय"]
+    },
+    "answer": {
+      "en": "Both a and b",
+      "hi": "a और b दोनों"
+    }
+  },
+  {
+    "id": 1067,
+    "subject": "BSA",
+    "question": {
+      "en": "Which of the following is considered 'primary evidence' under the BSA?",
+      "hi": "बीएसए के तहत निम्नलिखित में से किसे 'प्राथमिक साक्ष्य' माना जाता है?"
+    },
+    "options": {
+      "en": ["A certified copy", "The original document itself", "A photocopy", "An oral account of the document"],
+      "hi": ["एक प्रमाणित प्रति", "मूल दस्तावेज़ स्वयं", "एक फोटोकॉपी", "दस्तावेज़ का एक मौखिक विवरण"]
+    },
+    "answer": {
+      "en": "The original document itself",
+      "hi": "मूल दस्तावेज़ स्वयं"
+    }
+  },
+  {
+    "id": 1068,
+    "subject": "Law of Tort",
+    "question": {
+      "en": "What is the primary difference between a tort and a crime?",
+      "hi": "अपकृत्य और अपराध के बीच प्राथमिक अंतर क्या है?"
+    },
+    "options": {
+      "en": ["A tort is a wrong against an individual, while a crime is a wrong against society", "A tort is always intentional", "A crime is always punishable with imprisonment", "There is no difference"],
+      "hi": ["एक अपकृत्य एक व्यक्ति के खिलाफ एक गलत है, जबकि एक अपराध समाज के खिलाफ एक गलत है", "एक अपकृत्य हमेशा जानबूझकर होता है", "एक अपराध हमेशा कारावास से दंडनीय होता है", "कोई अंतर नहीं है"]
+    },
+    "answer": {
+      "en": "A tort is a wrong against an individual, while a crime is a wrong against society",
+      "hi": "एक अपकृत्य एक व्यक्ति के खिलाफ एक गलत है, जबकि एक अपराध समाज के खिलाफ एक गलत है"
+    }
+  },
+  {
+    "id": 1069,
+    "subject": "Family Law",
+    "question": {
+      "en": "The Special Marriage Act, 1954, is applicable to:",
+      "hi": "विशेष विवाह अधिनियम, 1954, किस पर लागू होता है:"
+    },
+    "options": {
+      "en": ["Only Hindus", "Only Muslims", "All citizens of India irrespective of their religion", "Only inter-caste marriages"],
+      "hi": ["केवल हिंदू", "केवल मुसलमान", "भारत के सभी नागरिक चाहे उनका कोई भी धर्म हो", "केवल अंतर-जातीय विवाह"]
+    },
+    "answer": {
+      "en": "All citizens of India irrespective of their religion",
+      "hi": "भारत के सभी नागरिक चाहे उनका कोई भी धर्म हो"
+    }
+  },
+  {
+    "id": 1070,
+    "subject": "Law of Contract",
+    "question": {
+      "en": "A contract of 'indemnity' is a:",
+      "hi": "'क्षतिपूर्ति' की संविदा एक है:"
+    },
+    "options": {
+      "en": ["Contract to save the other party from loss caused by the promisor's own conduct or by the conduct of any other person", "Contract to do or not to do something on the happening of a future event", "Contract where one party is in a dominant position", "Contract with a minor"],
+      "hi": ["दूसरे पक्ष को वचनदाता के अपने आचरण या किसी अन्य व्यक्ति के आचरण के कारण हुए नुकसान से बचाने की संविदा", "भविष्य की किसी घटना के घटित होने पर कुछ करने या न करने की संविदा", "एक संविदा जहां एक पक्ष एक प्रमुख स्थिति में है", "एक अवयस्क के साथ एक संविदा"]
+    },
+    "answer": {
+      "en": "Contract to save the other party from loss caused by the promisor's own conduct or by the conduct of any other person",
+      "hi": "दूसरे पक्ष को वचनदाता के अपने आचरण या किसी अन्य व्यक्ति के आचरण के कारण हुए नुकसान से बचाने की संविदा"
+    }
+  },
+  {
+    "id": 1071,
+    "subject": "Constitutional Law",
+    "question": {
+      "en": "The concept of 'separation of powers' was propounded by:",
+      "hi": "'शक्तियों के पृथक्करण' की अवधारणा का प्रतिपादन किसने किया था:"
+    },
+    "options": {
+      "en": ["A.V. Dicey", "Montesquieu", "John Locke", "Jean-Jacques Rousseau"],
+      "hi": ["ए.वी. डायसी", "मोंटेस्क्यू", "जॉन लॉक", "जीन-जैक्स रूसो"]
+    },
+    "answer": {
+      "en": "Montesquieu",
+      "hi": "मोंटेस्क्यू"
+    }
   }
 ]
