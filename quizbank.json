@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 1
     "subject": "Constitutional Law",
     "question": { "en": "The 'Basic Structure Doctrine' was laid down by the Supreme Court in which landmark case?", "hi": "सर्वोच्च न्यायालय ने 'मूल संरचना सिद्धांत' किस ऐतिहासिक मामले में प्रतिपादित किया था?" },
     "options": { "en": ["Golaknath v. State of Punjab", "Kesavananda Bharati v. State of Kerala", "Maneka Gandhi v. Union of India", "Indira Sawhney v. Union of India"], "hi": ["गोलकनाथ बनाम पंजाब राज्य", "केशवानंद भारती बनाम केरल राज्य", "मेनका गांधी बनाम भारत संघ", "इंदिरा साहनी बनाम भारत संघ"] },
